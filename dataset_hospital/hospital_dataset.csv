@@ -1,0 +1,1001 @@
+Hospital_ID,Hospital_Name,Procedure_ID,Procedure_Name,Cost,Satisfaction_Rating,Procedure_Date,Performance_Score,Number_of_Procedures,City,State
+2,Hospital São Paulo,2,Hemodiálise,15803.38,5,2023-01-01 00:00:00,99,7,São Paulo,RJ
+1,Hospital São Paulo,1,Transplante Renal,12229.53,6,2023-01-01 01:00:00,51,3,Rio de Janeiro,DF
+1,Hospital das Clínicas,6,Transplante Renal,5507.3,10,2023-01-01 02:00:00,76,4,Rio de Janeiro,MG
+1,Hospital São Paulo,4,Radioterapia,6901.32,3,2023-01-01 03:00:00,33,19,Rio de Janeiro,DF
+3,Hospital São Paulo,5,Transplante Renal,14276.08,3,2023-01-01 04:00:00,22,10,Brasília,RJ
+1,Hospital Sírio-Libanês,6,Ressonância Magnética,5297.01,10,2023-01-01 05:00:00,59,13,Belo Horizonte,DF
+1,Hospital São Paulo,2,Cirurgia Cardíaca,10740.56,6,2023-01-01 06:00:00,69,13,Curitiba,SP
+2,Hospital Albert Einstein,6,Quimioterapia,14420.16,8,2023-01-01 07:00:00,32,8,São Paulo,RJ
+4,Hospital São Paulo,4,Transplante Renal,4698.43,9,2023-01-01 08:00:00,63,16,São Paulo,PR
+2,Hospital Sírio-Libanês,6,Transplante Renal,3780.33,8,2023-01-01 09:00:00,88,17,São Paulo,MG
+2,Hospital das Clínicas,2,Transplante Renal,3405.75,3,2023-01-01 10:00:00,59,1,Brasília,MG
+2,Hospital Albert Einstein,3,Quimioterapia,7147.63,8,2023-01-01 11:00:00,82,4,Belo Horizonte,MG
+4,Hospital São Paulo,2,Hemodiálise,16623.06,9,2023-01-01 12:00:00,20,10,Belo Horizonte,SP
+3,Hospital Sírio-Libanês,2,Cirurgia Cardíaca,13992.18,4,2023-01-01 13:00:00,45,17,São Paulo,DF
+2,Hospital Albert Einstein,2,Cirurgia Cardíaca,18641.85,5,2023-01-01 14:00:00,62,8,Brasília,RJ
+5,Hospital das Clínicas,2,Cirurgia Cardíaca,4311.2,10,2023-01-01 15:00:00,14,8,São Paulo,SP
+4,Hospital das Clínicas,2,Hemodiálise,15148.87,2,2023-01-01 16:00:00,3,15,São Paulo,MG
+4,Hospital das Clínicas,2,Ressonância Magnética,5991.07,7,2023-01-01 17:00:00,27,16,Rio de Janeiro,SP
+2,Hospital São Paulo,5,Radioterapia,4135.23,2,2023-01-01 18:00:00,24,1,Belo Horizonte,RJ
+2,Hospital São Paulo,3,Cirurgia Cardíaca,19138.39,6,2023-01-01 19:00:00,99,2,Belo Horizonte,DF
+1,Hospital São Paulo,5,Cirurgia Cardíaca,19727.72,9,2023-01-01 20:00:00,100,20,Rio de Janeiro,SP
+3,Hospital Albert Einstein,2,Hemodiálise,6534.03,7,2023-01-01 21:00:00,46,12,Brasília,RJ
+1,Hospital São Paulo,1,Ressonância Magnética,3991.64,2,2023-01-01 22:00:00,59,16,Rio de Janeiro,SP
+4,Hospital do Coração,3,Transplante Renal,9955.57,7,2023-01-01 23:00:00,53,4,São Paulo,SP
+2,Hospital das Clínicas,5,Quimioterapia,12687.5,3,2023-01-02 00:00:00,18,8,São Paulo,SP
+3,Hospital São Paulo,6,Ressonância Magnética,13348.44,8,2023-01-02 01:00:00,67,9,Belo Horizonte,SP
+2,Hospital do Coração,5,Hemodiálise,13297.46,4,2023-01-02 02:00:00,100,19,Brasília,MG
+5,Hospital Sírio-Libanês,3,Cirurgia Cardíaca,14272.76,8,2023-01-02 03:00:00,87,3,Rio de Janeiro,DF
+1,Hospital das Clínicas,1,Radioterapia,2424.03,2,2023-01-02 04:00:00,59,18,Rio de Janeiro,MG
+3,Hospital do Coração,3,Radioterapia,18928.49,8,2023-01-02 05:00:00,80,18,Rio de Janeiro,MG
+5,Hospital das Clínicas,3,Radioterapia,14286.23,1,2023-01-02 06:00:00,85,10,Belo Horizonte,RJ
+1,Hospital Sírio-Libanês,3,Radioterapia,17972.56,5,2023-01-02 07:00:00,27,7,Rio de Janeiro,DF
+5,Hospital São Paulo,2,Hemodiálise,10713.6,1,2023-01-02 08:00:00,12,7,Brasília,DF
+5,Hospital Sírio-Libanês,4,Quimioterapia,12553.8,10,2023-01-02 09:00:00,35,15,Curitiba,MG
+5,Hospital das Clínicas,4,Transplante Renal,7617.31,9,2023-01-02 10:00:00,63,3,Brasília,SP
+1,Hospital São Paulo,4,Hemodiálise,2468.12,2,2023-01-02 11:00:00,96,1,Rio de Janeiro,DF
+1,Hospital São Paulo,2,Radioterapia,17658.49,1,2023-01-02 12:00:00,73,19,Brasília,RJ
+5,Hospital Albert Einstein,3,Radioterapia,10057.24,9,2023-01-02 13:00:00,91,7,Belo Horizonte,DF
+3,Hospital Albert Einstein,5,Transplante Renal,16812.74,9,2023-01-02 14:00:00,81,7,Rio de Janeiro,RJ
+3,Hospital das Clínicas,5,Hemodiálise,17564.27,2,2023-01-02 15:00:00,47,6,Belo Horizonte,MG
+5,Hospital das Clínicas,5,Radioterapia,10794.8,2,2023-01-02 16:00:00,56,18,Curitiba,MG
+3,Hospital Albert Einstein,1,Transplante Renal,11297.91,7,2023-01-02 17:00:00,79,14,Brasília,RJ
+2,Hospital Albert Einstein,1,Hemodiálise,6213.71,4,2023-01-02 18:00:00,76,5,Curitiba,PR
+1,Hospital das Clínicas,1,Hemodiálise,10996.93,8,2023-01-02 19:00:00,77,17,Brasília,RJ
+4,Hospital São Paulo,3,Transplante Renal,11925.42,2,2023-01-02 20:00:00,89,8,Belo Horizonte,MG
+2,Hospital das Clínicas,6,Cirurgia Cardíaca,3351.11,3,2023-01-02 21:00:00,65,9,Belo Horizonte,MG
+2,Hospital Albert Einstein,1,Quimioterapia,1187.06,10,2023-01-02 22:00:00,75,14,Rio de Janeiro,PR
+5,Hospital Sírio-Libanês,1,Quimioterapia,2658.17,3,2023-01-02 23:00:00,30,13,Rio de Janeiro,PR
+5,Hospital Albert Einstein,6,Hemodiálise,17777.6,5,2023-01-03 00:00:00,53,17,Brasília,SP
+1,Hospital das Clínicas,5,Hemodiálise,13047.2,6,2023-01-03 01:00:00,75,13,São Paulo,RJ
+3,Hospital Albert Einstein,4,Hemodiálise,8356.67,1,2023-01-03 02:00:00,98,19,Brasília,PR
+1,Hospital Sírio-Libanês,6,Cirurgia Cardíaca,7068.78,5,2023-01-03 03:00:00,16,20,Rio de Janeiro,DF
+2,Hospital do Coração,6,Ressonância Magnética,7467.17,3,2023-01-03 04:00:00,58,16,Rio de Janeiro,DF
+5,Hospital Albert Einstein,2,Quimioterapia,13340.05,3,2023-01-03 05:00:00,51,16,Rio de Janeiro,DF
+2,Hospital Albert Einstein,5,Radioterapia,597.95,3,2023-01-03 06:00:00,98,17,Belo Horizonte,PR
+5,Hospital São Paulo,1,Hemodiálise,3250.53,8,2023-01-03 07:00:00,10,2,Brasília,SP
+5,Hospital das Clínicas,2,Quimioterapia,18274.51,8,2023-01-03 08:00:00,2,16,São Paulo,SP
+2,Hospital das Clínicas,5,Radioterapia,8222.21,9,2023-01-03 09:00:00,14,3,Curitiba,RJ
+4,Hospital do Coração,2,Quimioterapia,14546.15,1,2023-01-03 10:00:00,63,18,Curitiba,MG
+2,Hospital Albert Einstein,5,Radioterapia,4843.12,3,2023-01-03 11:00:00,17,11,Brasília,SP
+4,Hospital das Clínicas,1,Ressonância Magnética,9725.74,4,2023-01-03 12:00:00,1,4,Rio de Janeiro,PR
+2,Hospital das Clínicas,6,Quimioterapia,660.05,9,2023-01-03 13:00:00,2,3,Belo Horizonte,PR
+1,Hospital Albert Einstein,6,Cirurgia Cardíaca,19034.44,4,2023-01-03 14:00:00,30,12,Curitiba,MG
+3,Hospital Sírio-Libanês,1,Radioterapia,13685.5,9,2023-01-03 15:00:00,30,11,São Paulo,MG
+2,Hospital Albert Einstein,1,Hemodiálise,15059.69,10,2023-01-03 16:00:00,14,16,Curitiba,PR
+2,Hospital do Coração,4,Quimioterapia,3114.88,2,2023-01-03 17:00:00,33,9,São Paulo,PR
+2,Hospital Albert Einstein,2,Hemodiálise,4306.43,8,2023-01-03 18:00:00,52,13,Brasília,PR
+5,Hospital São Paulo,3,Hemodiálise,7620.22,8,2023-01-03 19:00:00,21,12,Curitiba,RJ
+5,Hospital do Coração,5,Ressonância Magnética,1997.2,5,2023-01-03 20:00:00,21,5,São Paulo,PR
+3,Hospital Albert Einstein,5,Radioterapia,19986.88,4,2023-01-03 21:00:00,72,10,Rio de Janeiro,MG
+4,Hospital Albert Einstein,6,Transplante Renal,9251.09,8,2023-01-03 22:00:00,16,1,Curitiba,MG
+3,Hospital Albert Einstein,2,Transplante Renal,17639.42,2,2023-01-03 23:00:00,33,16,Brasília,PR
+5,Hospital São Paulo,1,Hemodiálise,12404.59,6,2023-01-04 00:00:00,41,8,Curitiba,MG
+2,Hospital São Paulo,2,Cirurgia Cardíaca,16318.08,9,2023-01-04 01:00:00,32,18,Rio de Janeiro,RJ
+1,Hospital Albert Einstein,6,Ressonância Magnética,14701.67,1,2023-01-04 02:00:00,87,6,São Paulo,PR
+5,Hospital Sírio-Libanês,6,Radioterapia,1192.47,5,2023-01-04 03:00:00,92,13,Brasília,SP
+3,Hospital Albert Einstein,3,Hemodiálise,4331.58,6,2023-01-04 04:00:00,76,13,São Paulo,DF
+3,Hospital do Coração,6,Ressonância Magnética,10332.24,8,2023-01-04 05:00:00,17,9,Rio de Janeiro,MG
+3,Hospital do Coração,1,Ressonância Magnética,16489.22,6,2023-01-04 06:00:00,46,11,Curitiba,SP
+3,Hospital das Clínicas,3,Transplante Renal,18299.58,8,2023-01-04 07:00:00,5,8,São Paulo,RJ
+1,Hospital São Paulo,3,Transplante Renal,14148.93,10,2023-01-04 08:00:00,19,6,Rio de Janeiro,RJ
+1,Hospital Albert Einstein,5,Quimioterapia,5001.23,1,2023-01-04 09:00:00,74,17,Belo Horizonte,SP
+1,Hospital Albert Einstein,4,Cirurgia Cardíaca,3017.74,1,2023-01-04 10:00:00,73,14,Belo Horizonte,PR
+3,Hospital do Coração,2,Transplante Renal,10218.53,3,2023-01-04 11:00:00,66,12,São Paulo,SP
+1,Hospital Albert Einstein,3,Quimioterapia,11233.4,2,2023-01-04 12:00:00,72,8,Belo Horizonte,MG
+2,Hospital das Clínicas,3,Transplante Renal,19049.42,7,2023-01-04 13:00:00,16,10,Curitiba,MG
+3,Hospital Sírio-Libanês,4,Transplante Renal,5102.04,5,2023-01-04 14:00:00,11,15,Rio de Janeiro,SP
+1,Hospital das Clínicas,5,Transplante Renal,15558.68,3,2023-01-04 15:00:00,8,10,Brasília,SP
+5,Hospital das Clínicas,5,Quimioterapia,3146.39,2,2023-01-04 16:00:00,78,10,Belo Horizonte,PR
+3,Hospital São Paulo,6,Radioterapia,2198.73,1,2023-01-04 17:00:00,1,12,Belo Horizonte,MG
+4,Hospital das Clínicas,4,Transplante Renal,15123.06,7,2023-01-04 18:00:00,17,15,São Paulo,SP
+3,Hospital Albert Einstein,4,Quimioterapia,6075.39,1,2023-01-04 19:00:00,73,11,Belo Horizonte,PR
+4,Hospital das Clínicas,3,Quimioterapia,16574.58,3,2023-01-04 20:00:00,24,9,Curitiba,SP
+1,Hospital Albert Einstein,5,Ressonância Magnética,2200.57,1,2023-01-04 21:00:00,29,18,Brasília,MG
+3,Hospital Albert Einstein,5,Ressonância Magnética,10055.87,8,2023-01-04 22:00:00,8,11,Belo Horizonte,MG
+3,Hospital do Coração,5,Ressonância Magnética,2693.39,8,2023-01-04 23:00:00,97,20,Curitiba,RJ
+1,Hospital das Clínicas,5,Ressonância Magnética,5332.25,5,2023-01-05 00:00:00,84,11,Belo Horizonte,SP
+2,Hospital do Coração,3,Quimioterapia,18236.04,10,2023-01-05 01:00:00,62,4,São Paulo,PR
+2,Hospital Albert Einstein,3,Hemodiálise,17391.95,1,2023-01-05 02:00:00,13,6,Belo Horizonte,MG
+2,Hospital do Coração,3,Quimioterapia,504.32,7,2023-01-05 03:00:00,86,3,Brasília,RJ
+4,Hospital do Coração,2,Transplante Renal,16719.06,8,2023-01-05 04:00:00,25,4,Belo Horizonte,PR
+3,Hospital São Paulo,2,Ressonância Magnética,12609.88,7,2023-01-05 05:00:00,62,1,Belo Horizonte,RJ
+1,Hospital das Clínicas,3,Ressonância Magnética,7503.41,3,2023-01-05 06:00:00,46,4,Brasília,SP
+3,Hospital São Paulo,5,Cirurgia Cardíaca,19001.77,5,2023-01-05 07:00:00,81,20,Brasília,PR
+4,Hospital do Coração,1,Ressonância Magnética,13410.78,3,2023-01-05 08:00:00,66,8,Rio de Janeiro,DF
+1,Hospital São Paulo,6,Radioterapia,10134.93,2,2023-01-05 09:00:00,51,4,São Paulo,PR
+2,Hospital Albert Einstein,2,Radioterapia,18208.62,3,2023-01-05 10:00:00,30,16,São Paulo,RJ
+3,Hospital Albert Einstein,3,Ressonância Magnética,8514.6,7,2023-01-05 11:00:00,83,19,Belo Horizonte,SP
+2,Hospital Albert Einstein,3,Radioterapia,19146.14,6,2023-01-05 12:00:00,5,9,Curitiba,SP
+5,Hospital Albert Einstein,6,Cirurgia Cardíaca,8676.55,8,2023-01-05 13:00:00,66,5,Brasília,RJ
+1,Hospital do Coração,4,Ressonância Magnética,5946.77,5,2023-01-05 14:00:00,69,1,Rio de Janeiro,RJ
+1,Hospital Albert Einstein,4,Radioterapia,8770.74,8,2023-01-05 15:00:00,53,8,Curitiba,MG
+5,Hospital São Paulo,5,Hemodiálise,10131.95,10,2023-01-05 16:00:00,64,15,Rio de Janeiro,MG
+2,Hospital Albert Einstein,3,Ressonância Magnética,14828.7,6,2023-01-05 17:00:00,78,9,Belo Horizonte,MG
+5,Hospital do Coração,5,Cirurgia Cardíaca,12132.74,7,2023-01-05 18:00:00,70,15,São Paulo,PR
+1,Hospital São Paulo,4,Radioterapia,16740.25,10,2023-01-05 19:00:00,78,17,Belo Horizonte,MG
+4,Hospital São Paulo,4,Transplante Renal,10486.39,7,2023-01-05 20:00:00,94,6,Curitiba,SP
+3,Hospital do Coração,5,Cirurgia Cardíaca,4328.02,7,2023-01-05 21:00:00,44,9,Brasília,SP
+4,Hospital Albert Einstein,2,Ressonância Magnética,3514.87,10,2023-01-05 22:00:00,84,3,Belo Horizonte,DF
+2,Hospital São Paulo,4,Radioterapia,13226.66,3,2023-01-05 23:00:00,47,10,Belo Horizonte,DF
+1,Hospital das Clínicas,3,Quimioterapia,17089.31,9,2023-01-06 00:00:00,27,20,Belo Horizonte,SP
+3,Hospital das Clínicas,1,Cirurgia Cardíaca,2594.16,2,2023-01-06 01:00:00,54,9,Belo Horizonte,DF
+1,Hospital das Clínicas,4,Ressonância Magnética,13709.43,8,2023-01-06 02:00:00,54,18,Brasília,MG
+3,Hospital Albert Einstein,5,Quimioterapia,19557.19,2,2023-01-06 03:00:00,39,16,Rio de Janeiro,PR
+3,Hospital das Clínicas,1,Cirurgia Cardíaca,9249.89,2,2023-01-06 04:00:00,21,13,Belo Horizonte,DF
+5,Hospital das Clínicas,4,Quimioterapia,552.61,8,2023-01-06 05:00:00,12,15,Rio de Janeiro,PR
+2,Hospital São Paulo,6,Hemodiálise,9543.73,7,2023-01-06 06:00:00,37,9,Curitiba,PR
+3,Hospital Albert Einstein,2,Cirurgia Cardíaca,16107.26,4,2023-01-06 07:00:00,60,8,São Paulo,RJ
+5,Hospital das Clínicas,6,Quimioterapia,4542.57,4,2023-01-06 08:00:00,79,3,Rio de Janeiro,PR
+3,Hospital São Paulo,5,Hemodiálise,4418.1,9,2023-01-06 09:00:00,32,3,Curitiba,PR
+4,Hospital São Paulo,6,Ressonância Magnética,15823.11,8,2023-01-06 10:00:00,20,19,Brasília,RJ
+2,Hospital das Clínicas,5,Cirurgia Cardíaca,14845.91,6,2023-01-06 11:00:00,25,20,Belo Horizonte,PR
+2,Hospital das Clínicas,4,Cirurgia Cardíaca,4200.27,8,2023-01-06 12:00:00,36,4,Belo Horizonte,RJ
+4,Hospital Sírio-Libanês,4,Transplante Renal,18729.42,8,2023-01-06 13:00:00,43,14,Curitiba,PR
+1,Hospital do Coração,1,Quimioterapia,4848.41,2,2023-01-06 14:00:00,51,3,São Paulo,DF
+3,Hospital São Paulo,1,Hemodiálise,13766.49,5,2023-01-06 15:00:00,2,3,Belo Horizonte,PR
+5,Hospital São Paulo,5,Radioterapia,9798.26,8,2023-01-06 16:00:00,50,17,Rio de Janeiro,RJ
+1,Hospital Sírio-Libanês,1,Transplante Renal,11279.04,5,2023-01-06 17:00:00,32,3,Belo Horizonte,PR
+5,Hospital São Paulo,4,Cirurgia Cardíaca,2371.44,1,2023-01-06 18:00:00,74,1,Rio de Janeiro,MG
+5,Hospital Sírio-Libanês,4,Quimioterapia,18163.96,5,2023-01-06 19:00:00,91,1,Rio de Janeiro,RJ
+1,Hospital das Clínicas,3,Transplante Renal,3329.22,6,2023-01-06 20:00:00,14,7,Curitiba,MG
+4,Hospital Sírio-Libanês,1,Transplante Renal,19580.01,8,2023-01-06 21:00:00,80,7,Belo Horizonte,MG
+4,Hospital Albert Einstein,1,Quimioterapia,10649.16,1,2023-01-06 22:00:00,51,10,São Paulo,MG
+5,Hospital Sírio-Libanês,1,Radioterapia,9003.56,5,2023-01-06 23:00:00,97,19,Brasília,MG
+2,Hospital do Coração,1,Transplante Renal,6028.09,1,2023-01-07 00:00:00,11,5,Curitiba,DF
+3,Hospital Albert Einstein,1,Quimioterapia,14582.35,3,2023-01-07 01:00:00,51,16,São Paulo,MG
+5,Hospital das Clínicas,4,Ressonância Magnética,17325.56,8,2023-01-07 02:00:00,61,8,Brasília,SP
+2,Hospital do Coração,1,Hemodiálise,13476.59,2,2023-01-07 03:00:00,78,9,Belo Horizonte,MG
+5,Hospital São Paulo,1,Radioterapia,7546.14,4,2023-01-07 04:00:00,68,4,Rio de Janeiro,MG
+2,Hospital Albert Einstein,4,Hemodiálise,10629.92,7,2023-01-07 05:00:00,39,15,São Paulo,DF
+4,Hospital Albert Einstein,5,Radioterapia,19097.24,2,2023-01-07 06:00:00,48,14,Belo Horizonte,DF
+4,Hospital do Coração,4,Radioterapia,5874.06,6,2023-01-07 07:00:00,64,4,São Paulo,MG
+5,Hospital Sírio-Libanês,3,Cirurgia Cardíaca,4511.48,6,2023-01-07 08:00:00,15,11,Brasília,PR
+2,Hospital das Clínicas,2,Cirurgia Cardíaca,7573.45,6,2023-01-07 09:00:00,68,12,Rio de Janeiro,RJ
+4,Hospital São Paulo,4,Hemodiálise,12841.47,7,2023-01-07 10:00:00,87,8,Brasília,DF
+5,Hospital São Paulo,6,Quimioterapia,18563.4,8,2023-01-07 11:00:00,42,2,Curitiba,SP
+3,Hospital das Clínicas,1,Hemodiálise,13777.33,5,2023-01-07 12:00:00,18,13,Belo Horizonte,MG
+4,Hospital das Clínicas,6,Ressonância Magnética,11481.41,8,2023-01-07 13:00:00,84,3,Curitiba,RJ
+3,Hospital São Paulo,2,Ressonância Magnética,5088.24,10,2023-01-07 14:00:00,100,3,Rio de Janeiro,PR
+4,Hospital das Clínicas,2,Ressonância Magnética,4406.86,9,2023-01-07 15:00:00,73,17,São Paulo,RJ
+1,Hospital das Clínicas,1,Hemodiálise,5310.31,9,2023-01-07 16:00:00,58,7,Rio de Janeiro,MG
+3,Hospital Sírio-Libanês,1,Ressonância Magnética,1734.62,3,2023-01-07 17:00:00,42,20,São Paulo,DF
+4,Hospital São Paulo,6,Hemodiálise,979.84,9,2023-01-07 18:00:00,56,2,São Paulo,MG
+2,Hospital Sírio-Libanês,1,Ressonância Magnética,11444.02,2,2023-01-07 19:00:00,50,14,Belo Horizonte,RJ
+4,Hospital São Paulo,1,Hemodiálise,6947.0,4,2023-01-07 20:00:00,38,7,Belo Horizonte,RJ
+4,Hospital das Clínicas,4,Radioterapia,10880.66,6,2023-01-07 21:00:00,55,7,Belo Horizonte,DF
+3,Hospital Albert Einstein,2,Radioterapia,10489.01,8,2023-01-07 22:00:00,96,12,São Paulo,RJ
+4,Hospital São Paulo,2,Hemodiálise,12829.32,2,2023-01-07 23:00:00,6,3,Belo Horizonte,DF
+4,Hospital Sírio-Libanês,4,Radioterapia,14473.62,4,2023-01-08 00:00:00,25,2,Belo Horizonte,DF
+1,Hospital das Clínicas,1,Cirurgia Cardíaca,3225.31,4,2023-01-08 01:00:00,72,20,São Paulo,PR
+5,Hospital Albert Einstein,1,Ressonância Magnética,7416.68,1,2023-01-08 02:00:00,43,6,Brasília,SP
+1,Hospital Albert Einstein,5,Radioterapia,3433.15,3,2023-01-08 03:00:00,38,8,Rio de Janeiro,DF
+4,Hospital do Coração,1,Hemodiálise,4600.6,1,2023-01-08 04:00:00,87,11,Belo Horizonte,MG
+2,Hospital São Paulo,5,Hemodiálise,10240.36,9,2023-01-08 05:00:00,33,3,São Paulo,PR
+3,Hospital do Coração,4,Ressonância Magnética,9316.37,10,2023-01-08 06:00:00,50,5,Curitiba,DF
+2,Hospital das Clínicas,3,Hemodiálise,8910.99,2,2023-01-08 07:00:00,87,6,Rio de Janeiro,SP
+1,Hospital das Clínicas,2,Radioterapia,10331.68,10,2023-01-08 08:00:00,71,19,São Paulo,SP
+2,Hospital Albert Einstein,1,Hemodiálise,538.34,9,2023-01-08 09:00:00,12,4,Curitiba,PR
+2,Hospital Sírio-Libanês,5,Hemodiálise,11890.42,8,2023-01-08 10:00:00,60,15,Brasília,DF
+2,Hospital Sírio-Libanês,4,Radioterapia,11852.23,9,2023-01-08 11:00:00,66,13,Belo Horizonte,DF
+5,Hospital Sírio-Libanês,5,Transplante Renal,15345.26,10,2023-01-08 12:00:00,1,5,Curitiba,DF
+1,Hospital Albert Einstein,4,Radioterapia,5648.53,8,2023-01-08 13:00:00,65,13,Brasília,RJ
+5,Hospital São Paulo,5,Cirurgia Cardíaca,18372.48,9,2023-01-08 14:00:00,72,11,Brasília,RJ
+5,Hospital Albert Einstein,1,Transplante Renal,8825.65,9,2023-01-08 15:00:00,45,1,Belo Horizonte,SP
+4,Hospital Albert Einstein,6,Quimioterapia,681.36,5,2023-01-08 16:00:00,29,4,Brasília,PR
+3,Hospital Sírio-Libanês,1,Transplante Renal,13462.55,5,2023-01-08 17:00:00,84,4,Belo Horizonte,MG
+5,Hospital São Paulo,5,Ressonância Magnética,7943.17,2,2023-01-08 18:00:00,87,9,Belo Horizonte,PR
+3,Hospital São Paulo,2,Ressonância Magnética,11131.73,2,2023-01-08 19:00:00,9,10,Rio de Janeiro,SP
+2,Hospital São Paulo,4,Transplante Renal,8772.07,10,2023-01-08 20:00:00,91,20,São Paulo,MG
+4,Hospital Sírio-Libanês,1,Quimioterapia,16643.46,2,2023-01-08 21:00:00,90,13,Brasília,RJ
+3,Hospital do Coração,5,Ressonância Magnética,10417.45,1,2023-01-08 22:00:00,75,8,Rio de Janeiro,SP
+4,Hospital São Paulo,2,Ressonância Magnética,14202.49,1,2023-01-08 23:00:00,48,9,Rio de Janeiro,DF
+4,Hospital São Paulo,4,Ressonância Magnética,19906.05,7,2023-01-09 00:00:00,11,13,Curitiba,MG
+4,Hospital do Coração,4,Ressonância Magnética,3424.68,2,2023-01-09 01:00:00,49,17,Rio de Janeiro,DF
+2,Hospital São Paulo,1,Cirurgia Cardíaca,13858.8,7,2023-01-09 02:00:00,53,18,Brasília,PR
+3,Hospital das Clínicas,1,Hemodiálise,6661.79,6,2023-01-09 03:00:00,53,5,Curitiba,PR
+1,Hospital São Paulo,2,Transplante Renal,3734.84,10,2023-01-09 04:00:00,25,8,Brasília,PR
+3,Hospital Sírio-Libanês,2,Ressonância Magnética,6318.47,4,2023-01-09 05:00:00,6,5,Rio de Janeiro,MG
+5,Hospital das Clínicas,4,Transplante Renal,15003.91,8,2023-01-09 06:00:00,48,5,Curitiba,SP
+4,Hospital das Clínicas,3,Hemodiálise,7895.91,2,2023-01-09 07:00:00,86,12,Rio de Janeiro,DF
+2,Hospital São Paulo,4,Hemodiálise,10668.14,3,2023-01-09 08:00:00,45,5,Rio de Janeiro,RJ
+5,Hospital do Coração,5,Radioterapia,9371.16,10,2023-01-09 09:00:00,87,5,Rio de Janeiro,MG
+5,Hospital Sírio-Libanês,3,Radioterapia,9273.78,9,2023-01-09 10:00:00,55,12,Rio de Janeiro,RJ
+5,Hospital do Coração,6,Quimioterapia,17515.04,2,2023-01-09 11:00:00,90,13,Brasília,SP
+4,Hospital do Coração,3,Cirurgia Cardíaca,2232.88,4,2023-01-09 12:00:00,6,15,Curitiba,RJ
+3,Hospital Albert Einstein,5,Ressonância Magnética,19983.76,1,2023-01-09 13:00:00,23,19,Belo Horizonte,DF
+5,Hospital São Paulo,1,Cirurgia Cardíaca,15683.59,1,2023-01-09 14:00:00,36,19,Brasília,MG
+4,Hospital São Paulo,3,Transplante Renal,11826.7,5,2023-01-09 15:00:00,46,14,São Paulo,MG
+4,Hospital do Coração,6,Ressonância Magnética,13121.92,3,2023-01-09 16:00:00,49,9,Brasília,SP
+3,Hospital do Coração,2,Ressonância Magnética,6846.17,4,2023-01-09 17:00:00,36,3,Curitiba,DF
+4,Hospital Albert Einstein,4,Cirurgia Cardíaca,14342.08,6,2023-01-09 18:00:00,71,7,Belo Horizonte,RJ
+3,Hospital São Paulo,5,Cirurgia Cardíaca,1336.15,6,2023-01-09 19:00:00,9,12,Brasília,MG
+3,Hospital do Coração,5,Hemodiálise,13914.52,10,2023-01-09 20:00:00,16,4,Brasília,DF
+1,Hospital Sírio-Libanês,6,Hemodiálise,16839.44,6,2023-01-09 21:00:00,22,7,Curitiba,PR
+3,Hospital Sírio-Libanês,2,Ressonância Magnética,8482.15,1,2023-01-09 22:00:00,39,2,Belo Horizonte,DF
+1,Hospital Sírio-Libanês,1,Hemodiálise,7324.46,7,2023-01-09 23:00:00,78,18,Curitiba,SP
+5,Hospital Albert Einstein,5,Cirurgia Cardíaca,18033.66,9,2023-01-10 00:00:00,84,9,São Paulo,PR
+2,Hospital Sírio-Libanês,1,Transplante Renal,2646.03,8,2023-01-10 01:00:00,12,7,São Paulo,MG
+4,Hospital Sírio-Libanês,6,Cirurgia Cardíaca,11732.11,1,2023-01-10 02:00:00,15,4,Curitiba,SP
+1,Hospital São Paulo,2,Radioterapia,14788.84,4,2023-01-10 03:00:00,19,11,Belo Horizonte,PR
+4,Hospital das Clínicas,6,Quimioterapia,17194.89,1,2023-01-10 04:00:00,52,11,Rio de Janeiro,MG
+2,Hospital Sírio-Libanês,3,Hemodiálise,6440.43,1,2023-01-10 05:00:00,100,7,Brasília,PR
+2,Hospital do Coração,1,Radioterapia,5570.86,4,2023-01-10 06:00:00,26,11,São Paulo,RJ
+5,Hospital Sírio-Libanês,3,Radioterapia,13092.48,5,2023-01-10 07:00:00,41,16,Brasília,PR
+1,Hospital Sírio-Libanês,2,Transplante Renal,5662.35,4,2023-01-10 08:00:00,46,16,Belo Horizonte,PR
+3,Hospital das Clínicas,2,Cirurgia Cardíaca,17035.05,6,2023-01-10 09:00:00,45,7,Curitiba,MG
+3,Hospital São Paulo,5,Quimioterapia,6848.61,7,2023-01-10 10:00:00,59,17,Brasília,DF
+1,Hospital Sírio-Libanês,6,Cirurgia Cardíaca,11020.21,10,2023-01-10 11:00:00,97,14,Brasília,DF
+2,Hospital das Clínicas,6,Ressonância Magnética,18569.09,4,2023-01-10 12:00:00,48,6,Brasília,MG
+1,Hospital Albert Einstein,5,Transplante Renal,11867.54,6,2023-01-10 13:00:00,54,17,Rio de Janeiro,SP
+2,Hospital São Paulo,5,Ressonância Magnética,6657.53,4,2023-01-10 14:00:00,86,9,Belo Horizonte,DF
+4,Hospital São Paulo,3,Ressonância Magnética,13640.57,4,2023-01-10 15:00:00,66,15,São Paulo,MG
+4,Hospital São Paulo,1,Ressonância Magnética,1788.78,3,2023-01-10 16:00:00,87,6,Brasília,SP
+4,Hospital das Clínicas,4,Hemodiálise,10941.86,2,2023-01-10 17:00:00,88,9,Belo Horizonte,SP
+3,Hospital das Clínicas,5,Transplante Renal,13730.58,2,2023-01-10 18:00:00,53,16,Rio de Janeiro,RJ
+1,Hospital das Clínicas,6,Transplante Renal,1648.07,3,2023-01-10 19:00:00,17,7,Curitiba,PR
+2,Hospital do Coração,2,Ressonância Magnética,4522.27,2,2023-01-10 20:00:00,44,8,Brasília,PR
+5,Hospital Albert Einstein,4,Cirurgia Cardíaca,1965.87,5,2023-01-10 21:00:00,90,16,Curitiba,DF
+4,Hospital Sírio-Libanês,3,Ressonância Magnética,17008.87,10,2023-01-10 22:00:00,72,9,Curitiba,MG
+2,Hospital Sírio-Libanês,4,Hemodiálise,13598.5,9,2023-01-10 23:00:00,35,16,Curitiba,PR
+1,Hospital Albert Einstein,4,Ressonância Magnética,6703.54,7,2023-01-11 00:00:00,92,1,Rio de Janeiro,PR
+5,Hospital Sírio-Libanês,6,Hemodiálise,1154.63,5,2023-01-11 01:00:00,93,3,Rio de Janeiro,DF
+5,Hospital do Coração,1,Quimioterapia,15682.37,6,2023-01-11 02:00:00,46,12,São Paulo,MG
+3,Hospital Sírio-Libanês,2,Hemodiálise,5184.49,9,2023-01-11 03:00:00,28,18,São Paulo,MG
+4,Hospital das Clínicas,6,Quimioterapia,12284.49,7,2023-01-11 04:00:00,10,10,Rio de Janeiro,PR
+1,Hospital do Coração,6,Transplante Renal,14034.71,1,2023-01-11 05:00:00,9,8,Belo Horizonte,SP
+2,Hospital do Coração,6,Cirurgia Cardíaca,13991.88,7,2023-01-11 06:00:00,76,3,São Paulo,PR
+5,Hospital Albert Einstein,1,Quimioterapia,7384.98,3,2023-01-11 07:00:00,22,5,Curitiba,RJ
+5,Hospital das Clínicas,5,Radioterapia,12161.34,3,2023-01-11 08:00:00,79,1,Brasília,MG
+3,Hospital das Clínicas,1,Transplante Renal,18948.92,2,2023-01-11 09:00:00,43,17,São Paulo,PR
+1,Hospital das Clínicas,2,Cirurgia Cardíaca,10340.7,4,2023-01-11 10:00:00,19,10,Curitiba,RJ
+3,Hospital Sírio-Libanês,3,Ressonância Magnética,1580.58,5,2023-01-11 11:00:00,5,7,Rio de Janeiro,PR
+2,Hospital Sírio-Libanês,1,Hemodiálise,12744.16,10,2023-01-11 12:00:00,88,15,Belo Horizonte,PR
+1,Hospital São Paulo,4,Hemodiálise,17411.94,2,2023-01-11 13:00:00,57,9,São Paulo,MG
+5,Hospital São Paulo,6,Transplante Renal,11719.84,8,2023-01-11 14:00:00,44,17,Belo Horizonte,PR
+4,Hospital Albert Einstein,1,Quimioterapia,11903.41,10,2023-01-11 15:00:00,72,10,Curitiba,RJ
+2,Hospital do Coração,6,Transplante Renal,8226.03,10,2023-01-11 16:00:00,55,3,Brasília,DF
+5,Hospital Sírio-Libanês,1,Ressonância Magnética,7330.64,6,2023-01-11 17:00:00,91,20,Brasília,MG
+3,Hospital das Clínicas,6,Radioterapia,15366.09,7,2023-01-11 18:00:00,76,18,Rio de Janeiro,PR
+4,Hospital São Paulo,3,Transplante Renal,993.45,1,2023-01-11 19:00:00,57,15,Rio de Janeiro,DF
+3,Hospital Albert Einstein,2,Radioterapia,10206.33,8,2023-01-11 20:00:00,96,5,Rio de Janeiro,SP
+4,Hospital do Coração,6,Quimioterapia,9666.8,2,2023-01-11 21:00:00,93,8,Belo Horizonte,PR
+5,Hospital Sírio-Libanês,1,Hemodiálise,9530.75,4,2023-01-11 22:00:00,5,1,São Paulo,DF
+4,Hospital Sírio-Libanês,6,Hemodiálise,5447.27,5,2023-01-11 23:00:00,22,1,São Paulo,DF
+1,Hospital Sírio-Libanês,6,Transplante Renal,19382.69,1,2023-01-12 00:00:00,66,6,Brasília,PR
+1,Hospital São Paulo,1,Hemodiálise,13430.19,5,2023-01-12 01:00:00,81,8,São Paulo,SP
+5,Hospital das Clínicas,5,Radioterapia,2871.96,3,2023-01-12 02:00:00,61,3,Brasília,DF
+1,Hospital São Paulo,5,Quimioterapia,4907.21,3,2023-01-12 03:00:00,19,13,São Paulo,SP
+1,Hospital São Paulo,1,Quimioterapia,17913.87,5,2023-01-12 04:00:00,81,2,Rio de Janeiro,SP
+1,Hospital São Paulo,2,Transplante Renal,7156.68,5,2023-01-12 05:00:00,55,3,Brasília,PR
+2,Hospital Sírio-Libanês,4,Ressonância Magnética,690.41,2,2023-01-12 06:00:00,94,10,Brasília,MG
+1,Hospital Albert Einstein,4,Transplante Renal,12079.11,2,2023-01-12 07:00:00,47,3,São Paulo,DF
+1,Hospital Albert Einstein,5,Hemodiálise,3862.89,6,2023-01-12 08:00:00,27,8,São Paulo,RJ
+5,Hospital Albert Einstein,4,Hemodiálise,12383.44,2,2023-01-12 09:00:00,40,9,Belo Horizonte,RJ
+5,Hospital do Coração,3,Hemodiálise,1114.17,2,2023-01-12 10:00:00,88,8,Rio de Janeiro,PR
+5,Hospital Albert Einstein,2,Quimioterapia,10831.51,5,2023-01-12 11:00:00,26,9,Brasília,MG
+5,Hospital Sírio-Libanês,3,Cirurgia Cardíaca,14217.35,2,2023-01-12 12:00:00,89,14,Brasília,DF
+2,Hospital Albert Einstein,5,Radioterapia,6730.2,5,2023-01-12 13:00:00,83,2,Curitiba,DF
+3,Hospital Albert Einstein,5,Transplante Renal,6406.76,9,2023-01-12 14:00:00,49,19,Belo Horizonte,MG
+2,Hospital Albert Einstein,1,Quimioterapia,659.15,1,2023-01-12 15:00:00,89,3,Rio de Janeiro,PR
+3,Hospital Sírio-Libanês,3,Quimioterapia,10588.24,1,2023-01-12 16:00:00,82,15,Rio de Janeiro,RJ
+3,Hospital das Clínicas,3,Hemodiálise,1189.06,7,2023-01-12 17:00:00,17,6,Curitiba,RJ
+2,Hospital Sírio-Libanês,4,Transplante Renal,11264.83,8,2023-01-12 18:00:00,30,11,Brasília,PR
+1,Hospital Albert Einstein,1,Transplante Renal,14994.66,5,2023-01-12 19:00:00,80,19,Belo Horizonte,RJ
+2,Hospital São Paulo,4,Radioterapia,9436.1,3,2023-01-12 20:00:00,51,2,Curitiba,PR
+1,Hospital Sírio-Libanês,5,Transplante Renal,17759.85,10,2023-01-12 21:00:00,35,13,Curitiba,PR
+5,Hospital Sírio-Libanês,4,Radioterapia,19674.91,2,2023-01-12 22:00:00,33,2,Brasília,RJ
+5,Hospital Albert Einstein,4,Cirurgia Cardíaca,17489.12,1,2023-01-12 23:00:00,49,2,Belo Horizonte,DF
+1,Hospital das Clínicas,3,Quimioterapia,19311.48,7,2023-01-13 00:00:00,18,8,Belo Horizonte,SP
+3,Hospital do Coração,1,Hemodiálise,11137.68,10,2023-01-13 01:00:00,54,9,Curitiba,SP
+2,Hospital São Paulo,2,Quimioterapia,1719.85,1,2023-01-13 02:00:00,28,13,Belo Horizonte,PR
+5,Hospital Sírio-Libanês,5,Radioterapia,9193.19,6,2023-01-13 03:00:00,48,16,Brasília,MG
+1,Hospital Albert Einstein,5,Ressonância Magnética,2581.0,2,2023-01-13 04:00:00,83,9,Curitiba,DF
+5,Hospital São Paulo,4,Radioterapia,14055.0,7,2023-01-13 05:00:00,36,18,Rio de Janeiro,SP
+1,Hospital São Paulo,5,Cirurgia Cardíaca,16889.98,7,2023-01-13 06:00:00,64,6,Brasília,DF
+4,Hospital Sírio-Libanês,6,Radioterapia,10092.01,6,2023-01-13 07:00:00,1,16,Belo Horizonte,MG
+4,Hospital São Paulo,1,Quimioterapia,17954.45,2,2023-01-13 08:00:00,93,2,Brasília,MG
+5,Hospital do Coração,1,Ressonância Magnética,11730.43,8,2023-01-13 09:00:00,37,4,São Paulo,RJ
+3,Hospital São Paulo,3,Hemodiálise,16279.59,2,2023-01-13 10:00:00,91,4,Curitiba,PR
+4,Hospital Albert Einstein,5,Hemodiálise,4008.06,5,2023-01-13 11:00:00,49,7,Rio de Janeiro,SP
+3,Hospital Sírio-Libanês,4,Ressonância Magnética,3820.24,9,2023-01-13 12:00:00,21,14,Curitiba,RJ
+3,Hospital Sírio-Libanês,3,Hemodiálise,4470.09,5,2023-01-13 13:00:00,8,6,São Paulo,SP
+2,Hospital São Paulo,3,Ressonância Magnética,1142.56,10,2023-01-13 14:00:00,52,10,Rio de Janeiro,SP
+1,Hospital do Coração,1,Radioterapia,10988.22,4,2023-01-13 15:00:00,27,1,Brasília,RJ
+3,Hospital do Coração,6,Ressonância Magnética,4884.39,10,2023-01-13 16:00:00,75,9,Belo Horizonte,PR
+1,Hospital das Clínicas,6,Ressonância Magnética,15729.38,2,2023-01-13 17:00:00,97,2,São Paulo,MG
+1,Hospital das Clínicas,4,Ressonância Magnética,1343.82,3,2023-01-13 18:00:00,11,3,Curitiba,RJ
+5,Hospital do Coração,5,Radioterapia,2498.02,4,2023-01-13 19:00:00,97,2,Curitiba,SP
+3,Hospital das Clínicas,6,Cirurgia Cardíaca,12041.79,6,2023-01-13 20:00:00,71,6,São Paulo,MG
+2,Hospital Sírio-Libanês,6,Ressonância Magnética,18243.93,8,2023-01-13 21:00:00,89,5,São Paulo,PR
+4,Hospital Sírio-Libanês,6,Quimioterapia,19230.1,5,2023-01-13 22:00:00,68,12,Brasília,PR
+3,Hospital das Clínicas,4,Quimioterapia,3068.46,1,2023-01-13 23:00:00,72,1,São Paulo,DF
+3,Hospital Sírio-Libanês,4,Hemodiálise,19104.21,10,2023-01-14 00:00:00,59,11,Brasília,MG
+4,Hospital das Clínicas,2,Hemodiálise,16623.56,6,2023-01-14 01:00:00,9,1,Curitiba,DF
+1,Hospital do Coração,5,Radioterapia,10512.09,7,2023-01-14 02:00:00,20,19,Brasília,RJ
+3,Hospital Albert Einstein,5,Transplante Renal,10026.39,9,2023-01-14 03:00:00,82,17,São Paulo,SP
+4,Hospital Sírio-Libanês,3,Ressonância Magnética,15642.8,3,2023-01-14 04:00:00,98,1,São Paulo,SP
+4,Hospital do Coração,6,Transplante Renal,13565.96,5,2023-01-14 05:00:00,6,12,Rio de Janeiro,DF
+3,Hospital das Clínicas,6,Transplante Renal,2424.23,4,2023-01-14 06:00:00,25,7,Brasília,MG
+1,Hospital Sírio-Libanês,1,Hemodiálise,12969.15,1,2023-01-14 07:00:00,60,15,Brasília,MG
+1,Hospital São Paulo,3,Radioterapia,6765.03,7,2023-01-14 08:00:00,27,19,Rio de Janeiro,DF
+2,Hospital do Coração,3,Ressonância Magnética,14225.82,3,2023-01-14 09:00:00,52,14,São Paulo,PR
+3,Hospital São Paulo,1,Radioterapia,11357.05,10,2023-01-14 10:00:00,36,11,São Paulo,DF
+5,Hospital do Coração,3,Radioterapia,16998.4,6,2023-01-14 11:00:00,34,12,Curitiba,MG
+2,Hospital das Clínicas,4,Quimioterapia,1536.75,10,2023-01-14 12:00:00,77,12,Brasília,DF
+2,Hospital São Paulo,4,Cirurgia Cardíaca,13512.08,10,2023-01-14 13:00:00,47,2,Brasília,SP
+3,Hospital das Clínicas,6,Hemodiálise,5895.05,5,2023-01-14 14:00:00,30,13,Curitiba,SP
+1,Hospital Sírio-Libanês,5,Hemodiálise,17166.73,7,2023-01-14 15:00:00,82,16,Rio de Janeiro,DF
+1,Hospital Sírio-Libanês,3,Quimioterapia,5867.76,5,2023-01-14 16:00:00,94,20,Curitiba,DF
+2,Hospital Sírio-Libanês,4,Hemodiálise,4031.44,7,2023-01-14 17:00:00,73,3,São Paulo,RJ
+1,Hospital do Coração,4,Quimioterapia,18734.5,1,2023-01-14 18:00:00,56,7,Belo Horizonte,SP
+2,Hospital Sírio-Libanês,1,Cirurgia Cardíaca,7596.5,10,2023-01-14 19:00:00,1,18,Curitiba,MG
+1,Hospital do Coração,5,Hemodiálise,11922.8,5,2023-01-14 20:00:00,47,19,São Paulo,SP
+1,Hospital Sírio-Libanês,5,Radioterapia,17746.25,8,2023-01-14 21:00:00,98,14,Curitiba,MG
+5,Hospital Sírio-Libanês,2,Ressonância Magnética,15410.27,3,2023-01-14 22:00:00,32,11,Brasília,SP
+1,Hospital do Coração,2,Cirurgia Cardíaca,5381.45,9,2023-01-14 23:00:00,18,11,Belo Horizonte,PR
+3,Hospital do Coração,5,Transplante Renal,18601.17,5,2023-01-15 00:00:00,39,4,Curitiba,PR
+2,Hospital Albert Einstein,6,Radioterapia,11402.08,9,2023-01-15 01:00:00,75,4,Curitiba,RJ
+1,Hospital das Clínicas,5,Ressonância Magnética,13530.15,6,2023-01-15 02:00:00,39,5,Rio de Janeiro,RJ
+4,Hospital das Clínicas,6,Cirurgia Cardíaca,17942.31,9,2023-01-15 03:00:00,69,5,São Paulo,MG
+3,Hospital São Paulo,6,Transplante Renal,11852.43,2,2023-01-15 04:00:00,13,9,Brasília,MG
+1,Hospital das Clínicas,2,Radioterapia,12189.85,3,2023-01-15 05:00:00,39,2,Brasília,DF
+1,Hospital São Paulo,6,Ressonância Magnética,6445.26,1,2023-01-15 06:00:00,51,1,Brasília,MG
+5,Hospital Sírio-Libanês,6,Hemodiálise,19154.75,2,2023-01-15 07:00:00,9,10,Brasília,DF
+4,Hospital Albert Einstein,4,Quimioterapia,12698.02,7,2023-01-15 08:00:00,66,16,Brasília,PR
+4,Hospital Albert Einstein,1,Ressonância Magnética,7840.69,3,2023-01-15 09:00:00,88,10,Belo Horizonte,MG
+2,Hospital Sírio-Libanês,2,Quimioterapia,4180.59,8,2023-01-15 10:00:00,79,9,Curitiba,RJ
+5,Hospital Sírio-Libanês,5,Quimioterapia,15770.76,1,2023-01-15 11:00:00,7,16,São Paulo,MG
+2,Hospital Sírio-Libanês,5,Hemodiálise,17599.93,6,2023-01-15 12:00:00,67,4,Rio de Janeiro,PR
+1,Hospital Albert Einstein,2,Transplante Renal,7139.25,8,2023-01-15 13:00:00,99,17,Curitiba,RJ
+2,Hospital das Clínicas,3,Radioterapia,7267.15,4,2023-01-15 14:00:00,8,16,Rio de Janeiro,RJ
+2,Hospital Albert Einstein,3,Hemodiálise,11399.43,10,2023-01-15 15:00:00,25,4,São Paulo,DF
+1,Hospital Sírio-Libanês,3,Quimioterapia,2326.18,9,2023-01-15 16:00:00,46,15,Belo Horizonte,RJ
+5,Hospital Albert Einstein,5,Radioterapia,13953.74,8,2023-01-15 17:00:00,63,10,Curitiba,SP
+1,Hospital das Clínicas,6,Hemodiálise,17144.26,1,2023-01-15 18:00:00,36,6,Curitiba,DF
+3,Hospital Sírio-Libanês,4,Hemodiálise,7104.78,3,2023-01-15 19:00:00,96,17,Rio de Janeiro,DF
+1,Hospital São Paulo,2,Ressonância Magnética,2803.1,6,2023-01-15 20:00:00,100,1,Brasília,RJ
+5,Hospital das Clínicas,4,Hemodiálise,19306.11,10,2023-01-15 21:00:00,63,2,Curitiba,DF
+2,Hospital Albert Einstein,1,Hemodiálise,8933.34,3,2023-01-15 22:00:00,47,19,São Paulo,MG
+2,Hospital do Coração,1,Hemodiálise,5688.93,6,2023-01-15 23:00:00,68,1,São Paulo,SP
+5,Hospital do Coração,3,Quimioterapia,596.04,7,2023-01-16 00:00:00,64,2,São Paulo,SP
+1,Hospital das Clínicas,1,Cirurgia Cardíaca,6807.91,8,2023-01-16 01:00:00,61,19,Brasília,MG
+5,Hospital Sírio-Libanês,1,Ressonância Magnética,17994.46,3,2023-01-16 02:00:00,29,8,Brasília,RJ
+5,Hospital do Coração,1,Cirurgia Cardíaca,2769.0,10,2023-01-16 03:00:00,66,11,Brasília,MG
+5,Hospital do Coração,1,Transplante Renal,3994.73,9,2023-01-16 04:00:00,69,16,São Paulo,PR
+4,Hospital Albert Einstein,4,Radioterapia,9849.5,10,2023-01-16 05:00:00,5,7,Belo Horizonte,RJ
+4,Hospital Albert Einstein,3,Ressonância Magnética,19973.0,2,2023-01-16 06:00:00,53,13,Curitiba,DF
+2,Hospital São Paulo,2,Transplante Renal,11537.89,5,2023-01-16 07:00:00,79,7,São Paulo,MG
+5,Hospital Sírio-Libanês,5,Radioterapia,15008.07,7,2023-01-16 08:00:00,63,11,Belo Horizonte,PR
+5,Hospital São Paulo,2,Cirurgia Cardíaca,17118.54,5,2023-01-16 09:00:00,34,16,Curitiba,RJ
+2,Hospital Sírio-Libanês,5,Quimioterapia,13103.91,2,2023-01-16 10:00:00,55,19,São Paulo,RJ
+3,Hospital Albert Einstein,6,Cirurgia Cardíaca,4645.87,4,2023-01-16 11:00:00,77,1,Rio de Janeiro,MG
+1,Hospital São Paulo,1,Cirurgia Cardíaca,991.79,9,2023-01-16 12:00:00,39,11,São Paulo,SP
+1,Hospital São Paulo,3,Quimioterapia,13652.15,6,2023-01-16 13:00:00,89,6,Rio de Janeiro,PR
+1,Hospital Sírio-Libanês,1,Ressonância Magnética,12680.53,1,2023-01-16 14:00:00,51,10,Belo Horizonte,PR
+5,Hospital das Clínicas,1,Ressonância Magnética,19849.94,7,2023-01-16 15:00:00,33,17,Curitiba,SP
+4,Hospital Albert Einstein,6,Radioterapia,9500.71,8,2023-01-16 16:00:00,47,18,Brasília,PR
+1,Hospital São Paulo,2,Hemodiálise,12032.24,9,2023-01-16 17:00:00,99,5,Belo Horizonte,DF
+1,Hospital das Clínicas,3,Transplante Renal,1212.82,2,2023-01-16 18:00:00,56,18,Brasília,RJ
+5,Hospital do Coração,6,Radioterapia,7538.04,6,2023-01-16 19:00:00,59,2,Rio de Janeiro,DF
+3,Hospital das Clínicas,4,Transplante Renal,1137.42,1,2023-01-16 20:00:00,31,9,Curitiba,DF
+4,Hospital Sírio-Libanês,3,Quimioterapia,17879.23,8,2023-01-16 21:00:00,48,19,Rio de Janeiro,MG
+5,Hospital das Clínicas,1,Quimioterapia,13722.69,6,2023-01-16 22:00:00,51,4,Rio de Janeiro,DF
+1,Hospital São Paulo,4,Quimioterapia,1374.34,9,2023-01-16 23:00:00,67,16,Rio de Janeiro,DF
+3,Hospital Albert Einstein,4,Transplante Renal,17233.62,2,2023-01-17 00:00:00,21,4,Curitiba,MG
+4,Hospital Albert Einstein,3,Radioterapia,3345.08,6,2023-01-17 01:00:00,60,11,Curitiba,RJ
+1,Hospital do Coração,1,Ressonância Magnética,5024.15,7,2023-01-17 02:00:00,20,15,Rio de Janeiro,SP
+5,Hospital das Clínicas,6,Cirurgia Cardíaca,8353.91,7,2023-01-17 03:00:00,56,14,Curitiba,PR
+5,Hospital Sírio-Libanês,6,Quimioterapia,18027.68,6,2023-01-17 04:00:00,17,17,São Paulo,SP
+3,Hospital das Clínicas,3,Transplante Renal,7876.23,1,2023-01-17 05:00:00,65,16,São Paulo,RJ
+4,Hospital Albert Einstein,2,Ressonância Magnética,13263.89,8,2023-01-17 06:00:00,14,10,São Paulo,MG
+2,Hospital São Paulo,1,Radioterapia,13654.55,10,2023-01-17 07:00:00,51,6,Rio de Janeiro,RJ
+3,Hospital Sírio-Libanês,2,Cirurgia Cardíaca,12915.78,9,2023-01-17 08:00:00,77,15,Brasília,MG
+1,Hospital das Clínicas,5,Cirurgia Cardíaca,14819.6,6,2023-01-17 09:00:00,96,19,Curitiba,SP
+4,Hospital das Clínicas,4,Hemodiálise,16625.21,7,2023-01-17 10:00:00,81,18,Belo Horizonte,MG
+3,Hospital São Paulo,5,Cirurgia Cardíaca,3650.2,9,2023-01-17 11:00:00,28,14,Curitiba,DF
+5,Hospital das Clínicas,3,Transplante Renal,520.86,3,2023-01-17 12:00:00,66,8,São Paulo,SP
+3,Hospital Sírio-Libanês,4,Ressonância Magnética,7815.04,9,2023-01-17 13:00:00,31,2,Rio de Janeiro,RJ
+2,Hospital Sírio-Libanês,3,Transplante Renal,2742.3,9,2023-01-17 14:00:00,20,19,São Paulo,DF
+3,Hospital do Coração,3,Ressonância Magnética,4519.25,10,2023-01-17 15:00:00,67,16,Curitiba,MG
+1,Hospital São Paulo,3,Ressonância Magnética,17523.98,2,2023-01-17 16:00:00,63,7,Brasília,SP
+1,Hospital São Paulo,3,Cirurgia Cardíaca,15990.25,1,2023-01-17 17:00:00,58,20,Curitiba,DF
+3,Hospital Albert Einstein,6,Transplante Renal,10773.22,10,2023-01-17 18:00:00,82,12,São Paulo,DF
+1,Hospital das Clínicas,4,Cirurgia Cardíaca,9315.46,2,2023-01-17 19:00:00,11,7,Brasília,MG
+2,Hospital Sírio-Libanês,6,Quimioterapia,5144.3,1,2023-01-17 20:00:00,68,11,Curitiba,RJ
+3,Hospital São Paulo,6,Hemodiálise,2104.59,8,2023-01-17 21:00:00,12,7,Belo Horizonte,PR
+5,Hospital Albert Einstein,6,Radioterapia,17113.05,5,2023-01-17 22:00:00,26,3,Belo Horizonte,DF
+1,Hospital das Clínicas,1,Ressonância Magnética,17999.91,5,2023-01-17 23:00:00,44,2,Rio de Janeiro,MG
+1,Hospital Sírio-Libanês,1,Ressonância Magnética,18634.96,7,2023-01-18 00:00:00,61,14,Curitiba,SP
+1,Hospital do Coração,5,Quimioterapia,1363.17,8,2023-01-18 01:00:00,9,16,Rio de Janeiro,MG
+2,Hospital do Coração,5,Transplante Renal,7759.55,2,2023-01-18 02:00:00,43,2,Curitiba,RJ
+2,Hospital do Coração,5,Cirurgia Cardíaca,17572.08,6,2023-01-18 03:00:00,19,17,Curitiba,RJ
+3,Hospital Sírio-Libanês,5,Transplante Renal,16777.61,7,2023-01-18 04:00:00,13,9,São Paulo,RJ
+3,Hospital Sírio-Libanês,3,Cirurgia Cardíaca,1938.79,8,2023-01-18 05:00:00,96,18,Rio de Janeiro,PR
+4,Hospital Albert Einstein,4,Hemodiálise,9071.94,2,2023-01-18 06:00:00,55,15,Brasília,RJ
+2,Hospital São Paulo,4,Radioterapia,13760.09,7,2023-01-18 07:00:00,67,20,São Paulo,SP
+1,Hospital do Coração,3,Cirurgia Cardíaca,11760.62,3,2023-01-18 08:00:00,3,15,Rio de Janeiro,SP
+4,Hospital São Paulo,1,Transplante Renal,8881.85,6,2023-01-18 09:00:00,6,19,Rio de Janeiro,SP
+2,Hospital do Coração,1,Ressonância Magnética,708.15,1,2023-01-18 10:00:00,65,9,Curitiba,RJ
+2,Hospital Sírio-Libanês,3,Cirurgia Cardíaca,4538.58,3,2023-01-18 11:00:00,30,17,Rio de Janeiro,PR
+4,Hospital São Paulo,4,Hemodiálise,15064.29,1,2023-01-18 12:00:00,62,19,São Paulo,PR
+3,Hospital das Clínicas,2,Transplante Renal,14179.95,8,2023-01-18 13:00:00,86,16,São Paulo,MG
+2,Hospital Albert Einstein,2,Quimioterapia,3162.67,7,2023-01-18 14:00:00,84,7,Brasília,PR
+1,Hospital Sírio-Libanês,3,Transplante Renal,17209.85,5,2023-01-18 15:00:00,67,5,Rio de Janeiro,PR
+2,Hospital das Clínicas,4,Radioterapia,2866.29,2,2023-01-18 16:00:00,87,5,Brasília,MG
+5,Hospital do Coração,3,Ressonância Magnética,4256.43,4,2023-01-18 17:00:00,67,15,Rio de Janeiro,PR
+4,Hospital São Paulo,3,Quimioterapia,4031.53,1,2023-01-18 18:00:00,84,10,Rio de Janeiro,DF
+3,Hospital do Coração,2,Radioterapia,15937.0,5,2023-01-18 19:00:00,7,12,Belo Horizonte,DF
+2,Hospital das Clínicas,6,Radioterapia,17165.15,6,2023-01-18 20:00:00,54,20,São Paulo,RJ
+4,Hospital São Paulo,1,Cirurgia Cardíaca,3543.16,9,2023-01-18 21:00:00,74,14,São Paulo,RJ
+3,Hospital Albert Einstein,5,Cirurgia Cardíaca,4290.53,3,2023-01-18 22:00:00,11,14,Belo Horizonte,MG
+5,Hospital Albert Einstein,3,Hemodiálise,1901.91,2,2023-01-18 23:00:00,85,1,São Paulo,MG
+2,Hospital do Coração,6,Radioterapia,8765.84,5,2023-01-19 00:00:00,76,2,Curitiba,DF
+5,Hospital do Coração,6,Ressonância Magnética,10621.61,5,2023-01-19 01:00:00,16,4,São Paulo,PR
+3,Hospital do Coração,3,Hemodiálise,8774.9,9,2023-01-19 02:00:00,56,1,Curitiba,PR
+2,Hospital Sírio-Libanês,4,Hemodiálise,13274.38,7,2023-01-19 03:00:00,82,6,Belo Horizonte,SP
+3,Hospital São Paulo,5,Cirurgia Cardíaca,1589.81,9,2023-01-19 04:00:00,85,6,Curitiba,MG
+1,Hospital das Clínicas,3,Radioterapia,15051.02,10,2023-01-19 05:00:00,6,13,São Paulo,MG
+4,Hospital das Clínicas,4,Hemodiálise,6746.76,5,2023-01-19 06:00:00,85,1,Rio de Janeiro,MG
+5,Hospital das Clínicas,3,Cirurgia Cardíaca,18218.26,3,2023-01-19 07:00:00,96,3,São Paulo,RJ
+4,Hospital Albert Einstein,5,Hemodiálise,14928.17,4,2023-01-19 08:00:00,2,10,Brasília,DF
+2,Hospital Sírio-Libanês,4,Ressonância Magnética,522.79,9,2023-01-19 09:00:00,9,1,Rio de Janeiro,RJ
+3,Hospital das Clínicas,5,Radioterapia,2972.55,7,2023-01-19 10:00:00,51,10,Curitiba,PR
+1,Hospital São Paulo,6,Radioterapia,4129.07,8,2023-01-19 11:00:00,76,15,São Paulo,RJ
+3,Hospital do Coração,1,Ressonância Magnética,3752.49,7,2023-01-19 12:00:00,99,9,Belo Horizonte,SP
+2,Hospital das Clínicas,2,Ressonância Magnética,13501.13,3,2023-01-19 13:00:00,68,4,São Paulo,MG
+1,Hospital do Coração,6,Radioterapia,11412.97,3,2023-01-19 14:00:00,73,13,Belo Horizonte,RJ
+2,Hospital do Coração,3,Cirurgia Cardíaca,18069.65,1,2023-01-19 15:00:00,77,15,Curitiba,DF
+4,Hospital das Clínicas,6,Ressonância Magnética,12644.69,9,2023-01-19 16:00:00,99,8,São Paulo,DF
+5,Hospital das Clínicas,6,Cirurgia Cardíaca,13860.83,6,2023-01-19 17:00:00,79,13,Curitiba,MG
+3,Hospital do Coração,5,Quimioterapia,16163.88,10,2023-01-19 18:00:00,81,9,Brasília,SP
+1,Hospital das Clínicas,2,Ressonância Magnética,15980.23,6,2023-01-19 19:00:00,11,12,Brasília,DF
+2,Hospital do Coração,3,Quimioterapia,4723.72,9,2023-01-19 20:00:00,27,16,Rio de Janeiro,MG
+4,Hospital do Coração,4,Cirurgia Cardíaca,16692.43,2,2023-01-19 21:00:00,55,19,Brasília,RJ
+1,Hospital Sírio-Libanês,2,Hemodiálise,6035.07,3,2023-01-19 22:00:00,98,15,São Paulo,MG
+3,Hospital das Clínicas,3,Hemodiálise,17451.16,10,2023-01-19 23:00:00,26,1,Brasília,PR
+1,Hospital do Coração,6,Hemodiálise,15506.16,1,2023-01-20 00:00:00,100,16,Curitiba,SP
+3,Hospital Sírio-Libanês,3,Quimioterapia,735.84,8,2023-01-20 01:00:00,14,6,São Paulo,RJ
+2,Hospital do Coração,2,Ressonância Magnética,10063.67,1,2023-01-20 02:00:00,37,15,Brasília,RJ
+2,Hospital Albert Einstein,2,Radioterapia,7969.05,2,2023-01-20 03:00:00,47,6,Rio de Janeiro,RJ
+1,Hospital do Coração,4,Radioterapia,5119.73,2,2023-01-20 04:00:00,94,10,Brasília,RJ
+2,Hospital do Coração,2,Quimioterapia,2594.75,10,2023-01-20 05:00:00,51,14,São Paulo,SP
+5,Hospital do Coração,3,Quimioterapia,19771.74,9,2023-01-20 06:00:00,47,8,Curitiba,SP
+3,Hospital Sírio-Libanês,6,Transplante Renal,2760.27,3,2023-01-20 07:00:00,15,9,Belo Horizonte,MG
+1,Hospital São Paulo,4,Radioterapia,16439.47,5,2023-01-20 08:00:00,60,19,Curitiba,RJ
+4,Hospital São Paulo,3,Cirurgia Cardíaca,5724.58,9,2023-01-20 09:00:00,72,4,Curitiba,PR
+1,Hospital São Paulo,4,Hemodiálise,1814.09,8,2023-01-20 10:00:00,65,18,São Paulo,PR
+5,Hospital Albert Einstein,1,Quimioterapia,6027.4,3,2023-01-20 11:00:00,81,18,São Paulo,RJ
+1,Hospital das Clínicas,2,Ressonância Magnética,18005.81,2,2023-01-20 12:00:00,11,14,Curitiba,SP
+4,Hospital do Coração,1,Radioterapia,4510.45,8,2023-01-20 13:00:00,45,8,Brasília,RJ
+3,Hospital das Clínicas,3,Ressonância Magnética,1605.56,5,2023-01-20 14:00:00,32,6,São Paulo,PR
+5,Hospital do Coração,2,Hemodiálise,14973.87,4,2023-01-20 15:00:00,1,12,Rio de Janeiro,MG
+1,Hospital Sírio-Libanês,4,Quimioterapia,11208.98,8,2023-01-20 16:00:00,97,12,Belo Horizonte,PR
+4,Hospital das Clínicas,1,Cirurgia Cardíaca,14971.36,6,2023-01-20 17:00:00,90,12,Curitiba,RJ
+1,Hospital das Clínicas,2,Transplante Renal,6256.55,9,2023-01-20 18:00:00,8,12,Belo Horizonte,PR
+5,Hospital Albert Einstein,2,Ressonância Magnética,10688.95,2,2023-01-20 19:00:00,34,10,São Paulo,DF
+4,Hospital Albert Einstein,2,Radioterapia,18750.81,1,2023-01-20 20:00:00,37,3,São Paulo,DF
+3,Hospital das Clínicas,1,Radioterapia,16106.47,8,2023-01-20 21:00:00,18,18,Brasília,PR
+1,Hospital do Coração,6,Quimioterapia,5938.51,10,2023-01-20 22:00:00,90,16,São Paulo,MG
+4,Hospital São Paulo,3,Quimioterapia,6579.0,7,2023-01-20 23:00:00,65,3,Curitiba,PR
+1,Hospital Sírio-Libanês,5,Hemodiálise,9119.02,8,2023-01-21 00:00:00,3,7,São Paulo,SP
+5,Hospital das Clínicas,3,Transplante Renal,16083.16,4,2023-01-21 01:00:00,73,16,Curitiba,RJ
+2,Hospital das Clínicas,2,Hemodiálise,7629.38,4,2023-01-21 02:00:00,42,6,Belo Horizonte,DF
+5,Hospital das Clínicas,5,Transplante Renal,5064.0,4,2023-01-21 03:00:00,38,2,Belo Horizonte,SP
+2,Hospital Sírio-Libanês,4,Hemodiálise,17366.73,4,2023-01-21 04:00:00,29,3,Curitiba,DF
+5,Hospital do Coração,1,Transplante Renal,5407.0,5,2023-01-21 05:00:00,35,13,Brasília,DF
+1,Hospital Sírio-Libanês,3,Ressonância Magnética,18400.4,6,2023-01-21 06:00:00,69,3,Rio de Janeiro,RJ
+5,Hospital das Clínicas,1,Transplante Renal,17102.34,7,2023-01-21 07:00:00,40,11,Curitiba,DF
+2,Hospital Sírio-Libanês,3,Ressonância Magnética,3649.72,10,2023-01-21 08:00:00,98,8,Belo Horizonte,RJ
+1,Hospital do Coração,1,Transplante Renal,14246.02,10,2023-01-21 09:00:00,1,3,Rio de Janeiro,SP
+1,Hospital Albert Einstein,3,Transplante Renal,8615.7,4,2023-01-21 10:00:00,18,7,Brasília,DF
+2,Hospital Sírio-Libanês,2,Hemodiálise,15184.89,2,2023-01-21 11:00:00,47,5,Rio de Janeiro,DF
+3,Hospital das Clínicas,4,Ressonância Magnética,15570.09,8,2023-01-21 12:00:00,88,6,Rio de Janeiro,PR
+3,Hospital das Clínicas,4,Cirurgia Cardíaca,6430.46,5,2023-01-21 13:00:00,43,2,Brasília,SP
+1,Hospital Sírio-Libanês,1,Ressonância Magnética,1757.44,5,2023-01-21 14:00:00,99,16,Brasília,RJ
+2,Hospital Sírio-Libanês,2,Cirurgia Cardíaca,5897.81,7,2023-01-21 15:00:00,54,19,São Paulo,PR
+3,Hospital das Clínicas,6,Cirurgia Cardíaca,15281.96,3,2023-01-21 16:00:00,5,9,Belo Horizonte,PR
+1,Hospital das Clínicas,4,Quimioterapia,5557.53,10,2023-01-21 17:00:00,46,15,Curitiba,MG
+1,Hospital Sírio-Libanês,2,Cirurgia Cardíaca,2459.44,7,2023-01-21 18:00:00,68,17,São Paulo,RJ
+2,Hospital São Paulo,4,Hemodiálise,14064.99,4,2023-01-21 19:00:00,54,19,Curitiba,RJ
+1,Hospital do Coração,5,Ressonância Magnética,3251.53,9,2023-01-21 20:00:00,17,11,Belo Horizonte,MG
+5,Hospital do Coração,2,Cirurgia Cardíaca,19242.65,9,2023-01-21 21:00:00,3,16,São Paulo,DF
+5,Hospital Sírio-Libanês,1,Radioterapia,15820.64,10,2023-01-21 22:00:00,9,7,Curitiba,DF
+3,Hospital Sírio-Libanês,1,Radioterapia,907.21,2,2023-01-21 23:00:00,92,9,Curitiba,MG
+3,Hospital Albert Einstein,2,Radioterapia,14939.51,10,2023-01-22 00:00:00,47,17,Rio de Janeiro,SP
+2,Hospital Albert Einstein,1,Ressonância Magnética,14007.76,9,2023-01-22 01:00:00,14,13,São Paulo,MG
+1,Hospital Albert Einstein,2,Cirurgia Cardíaca,7078.6,5,2023-01-22 02:00:00,100,3,Curitiba,RJ
+5,Hospital das Clínicas,2,Radioterapia,13807.47,6,2023-01-22 03:00:00,81,18,São Paulo,DF
+4,Hospital São Paulo,3,Cirurgia Cardíaca,11330.41,4,2023-01-22 04:00:00,37,1,Curitiba,PR
+5,Hospital São Paulo,3,Radioterapia,10875.78,2,2023-01-22 05:00:00,5,14,Rio de Janeiro,DF
+2,Hospital do Coração,2,Quimioterapia,8616.47,1,2023-01-22 06:00:00,77,14,Curitiba,DF
+2,Hospital Sírio-Libanês,3,Ressonância Magnética,10213.01,1,2023-01-22 07:00:00,50,8,Belo Horizonte,PR
+2,Hospital Albert Einstein,3,Radioterapia,4658.69,4,2023-01-22 08:00:00,53,3,Rio de Janeiro,DF
+1,Hospital do Coração,1,Quimioterapia,4530.88,4,2023-01-22 09:00:00,79,15,Brasília,SP
+5,Hospital Albert Einstein,1,Hemodiálise,5182.59,5,2023-01-22 10:00:00,82,16,Rio de Janeiro,DF
+3,Hospital do Coração,4,Ressonância Magnética,18627.41,6,2023-01-22 11:00:00,5,2,São Paulo,DF
+1,Hospital Sírio-Libanês,2,Ressonância Magnética,12377.09,3,2023-01-22 12:00:00,22,16,Brasília,PR
+4,Hospital Albert Einstein,1,Ressonância Magnética,11224.92,1,2023-01-22 13:00:00,57,13,Rio de Janeiro,DF
+4,Hospital das Clínicas,3,Transplante Renal,13091.13,2,2023-01-22 14:00:00,98,14,Curitiba,RJ
+2,Hospital Albert Einstein,1,Hemodiálise,7541.49,8,2023-01-22 15:00:00,91,18,Brasília,SP
+2,Hospital Sírio-Libanês,5,Cirurgia Cardíaca,5412.97,10,2023-01-22 16:00:00,72,6,Curitiba,PR
+5,Hospital Albert Einstein,3,Quimioterapia,3456.33,5,2023-01-22 17:00:00,89,11,Belo Horizonte,SP
+4,Hospital das Clínicas,3,Radioterapia,1861.35,2,2023-01-22 18:00:00,40,1,São Paulo,RJ
+4,Hospital Sírio-Libanês,1,Transplante Renal,1285.91,9,2023-01-22 19:00:00,82,6,Brasília,DF
+2,Hospital das Clínicas,6,Ressonância Magnética,11207.85,6,2023-01-22 20:00:00,88,4,São Paulo,PR
+4,Hospital São Paulo,1,Ressonância Magnética,2671.4,3,2023-01-22 21:00:00,20,10,Curitiba,SP
+5,Hospital São Paulo,3,Transplante Renal,1898.35,6,2023-01-22 22:00:00,30,8,Rio de Janeiro,SP
+5,Hospital Albert Einstein,6,Transplante Renal,5627.57,9,2023-01-22 23:00:00,63,9,Curitiba,RJ
+3,Hospital São Paulo,1,Radioterapia,16081.57,7,2023-01-23 00:00:00,8,9,Brasília,MG
+4,Hospital São Paulo,3,Transplante Renal,12983.83,5,2023-01-23 01:00:00,88,9,Curitiba,MG
+5,Hospital das Clínicas,6,Hemodiálise,10301.08,6,2023-01-23 02:00:00,94,1,São Paulo,DF
+5,Hospital São Paulo,4,Transplante Renal,8794.01,4,2023-01-23 03:00:00,30,11,Rio de Janeiro,DF
+3,Hospital Albert Einstein,4,Quimioterapia,9881.75,4,2023-01-23 04:00:00,2,18,Curitiba,PR
+5,Hospital do Coração,2,Hemodiálise,18132.69,10,2023-01-23 05:00:00,98,16,Rio de Janeiro,PR
+3,Hospital Sírio-Libanês,3,Cirurgia Cardíaca,6304.76,7,2023-01-23 06:00:00,13,18,Rio de Janeiro,SP
+1,Hospital das Clínicas,2,Quimioterapia,15897.83,10,2023-01-23 07:00:00,87,9,Rio de Janeiro,SP
+2,Hospital São Paulo,5,Quimioterapia,1851.71,7,2023-01-23 08:00:00,78,14,Curitiba,PR
+5,Hospital Sírio-Libanês,2,Radioterapia,5581.69,2,2023-01-23 09:00:00,78,12,Belo Horizonte,MG
+1,Hospital São Paulo,4,Hemodiálise,15980.1,6,2023-01-23 10:00:00,70,3,Brasília,MG
+3,Hospital das Clínicas,4,Radioterapia,11378.64,8,2023-01-23 11:00:00,21,10,Curitiba,MG
+2,Hospital Sírio-Libanês,5,Transplante Renal,14818.13,2,2023-01-23 12:00:00,6,20,Brasília,PR
+4,Hospital Sírio-Libanês,5,Cirurgia Cardíaca,10405.58,8,2023-01-23 13:00:00,85,13,Rio de Janeiro,PR
+1,Hospital das Clínicas,3,Ressonância Magnética,8945.32,6,2023-01-23 14:00:00,88,10,São Paulo,PR
+1,Hospital São Paulo,4,Ressonância Magnética,15617.5,9,2023-01-23 15:00:00,6,1,Belo Horizonte,SP
+5,Hospital das Clínicas,3,Transplante Renal,14538.21,7,2023-01-23 16:00:00,5,13,Curitiba,RJ
+3,Hospital Sírio-Libanês,2,Ressonância Magnética,6539.77,9,2023-01-23 17:00:00,24,1,Rio de Janeiro,PR
+1,Hospital Albert Einstein,5,Radioterapia,12528.03,7,2023-01-23 18:00:00,38,20,São Paulo,MG
+1,Hospital do Coração,5,Quimioterapia,8627.7,4,2023-01-23 19:00:00,67,11,Brasília,RJ
+2,Hospital das Clínicas,4,Hemodiálise,10347.31,3,2023-01-23 20:00:00,49,18,Belo Horizonte,RJ
+3,Hospital Albert Einstein,3,Hemodiálise,11906.57,6,2023-01-23 21:00:00,34,11,Belo Horizonte,MG
+2,Hospital Sírio-Libanês,2,Hemodiálise,17517.87,7,2023-01-23 22:00:00,48,10,São Paulo,MG
+5,Hospital Albert Einstein,4,Hemodiálise,15899.26,7,2023-01-23 23:00:00,92,19,São Paulo,MG
+4,Hospital Albert Einstein,6,Hemodiálise,18346.88,10,2023-01-24 00:00:00,25,17,São Paulo,PR
+4,Hospital São Paulo,6,Cirurgia Cardíaca,7459.23,6,2023-01-24 01:00:00,15,18,Rio de Janeiro,MG
+5,Hospital das Clínicas,2,Quimioterapia,11602.89,2,2023-01-24 02:00:00,4,18,Belo Horizonte,DF
+2,Hospital São Paulo,4,Quimioterapia,2042.51,2,2023-01-24 03:00:00,68,15,Brasília,RJ
+4,Hospital São Paulo,4,Ressonância Magnética,610.34,8,2023-01-24 04:00:00,1,13,Curitiba,MG
+2,Hospital das Clínicas,3,Transplante Renal,7994.75,6,2023-01-24 05:00:00,69,16,São Paulo,DF
+5,Hospital São Paulo,5,Radioterapia,16080.39,2,2023-01-24 06:00:00,59,8,Belo Horizonte,DF
+4,Hospital Sírio-Libanês,1,Radioterapia,15689.24,7,2023-01-24 07:00:00,55,2,Brasília,PR
+3,Hospital Albert Einstein,6,Hemodiálise,10482.39,4,2023-01-24 08:00:00,99,19,Curitiba,SP
+1,Hospital do Coração,3,Quimioterapia,2958.39,7,2023-01-24 09:00:00,65,18,Belo Horizonte,MG
+4,Hospital São Paulo,6,Radioterapia,14622.43,2,2023-01-24 10:00:00,81,9,Rio de Janeiro,MG
+3,Hospital Albert Einstein,5,Quimioterapia,6274.81,4,2023-01-24 11:00:00,73,9,Brasília,RJ
+1,Hospital Albert Einstein,3,Transplante Renal,765.75,2,2023-01-24 12:00:00,27,1,São Paulo,RJ
+4,Hospital Sírio-Libanês,2,Radioterapia,15749.26,6,2023-01-24 13:00:00,54,2,Rio de Janeiro,MG
+1,Hospital das Clínicas,5,Cirurgia Cardíaca,10586.23,10,2023-01-24 14:00:00,3,18,Curitiba,DF
+5,Hospital São Paulo,5,Cirurgia Cardíaca,8407.69,8,2023-01-24 15:00:00,17,4,São Paulo,DF
+5,Hospital Albert Einstein,4,Quimioterapia,16912.63,10,2023-01-24 16:00:00,42,18,Brasília,PR
+1,Hospital Albert Einstein,6,Cirurgia Cardíaca,5553.41,2,2023-01-24 17:00:00,55,20,Rio de Janeiro,RJ
+4,Hospital Albert Einstein,3,Quimioterapia,3662.07,9,2023-01-24 18:00:00,100,11,Brasília,DF
+1,Hospital Albert Einstein,6,Ressonância Magnética,12860.06,6,2023-01-24 19:00:00,69,1,Rio de Janeiro,DF
+5,Hospital São Paulo,3,Hemodiálise,17400.87,7,2023-01-24 20:00:00,37,10,Rio de Janeiro,DF
+5,Hospital das Clínicas,1,Quimioterapia,13367.4,4,2023-01-24 21:00:00,65,12,São Paulo,DF
+2,Hospital Sírio-Libanês,3,Ressonância Magnética,18422.89,3,2023-01-24 22:00:00,27,5,Belo Horizonte,MG
+4,Hospital Albert Einstein,4,Quimioterapia,16112.26,7,2023-01-24 23:00:00,15,16,Brasília,DF
+2,Hospital das Clínicas,5,Radioterapia,1941.04,7,2023-01-25 00:00:00,80,12,Rio de Janeiro,RJ
+4,Hospital das Clínicas,4,Radioterapia,3809.33,4,2023-01-25 01:00:00,91,16,São Paulo,MG
+5,Hospital São Paulo,6,Ressonância Magnética,768.44,4,2023-01-25 02:00:00,35,18,Belo Horizonte,DF
+1,Hospital das Clínicas,4,Radioterapia,19548.41,2,2023-01-25 03:00:00,1,3,São Paulo,RJ
+4,Hospital do Coração,1,Transplante Renal,13703.59,2,2023-01-25 04:00:00,52,1,Rio de Janeiro,MG
+5,Hospital do Coração,6,Quimioterapia,13430.29,4,2023-01-25 05:00:00,46,16,Curitiba,PR
+2,Hospital Albert Einstein,5,Hemodiálise,18193.19,1,2023-01-25 06:00:00,81,15,Rio de Janeiro,DF
+5,Hospital Sírio-Libanês,3,Hemodiálise,19087.83,10,2023-01-25 07:00:00,75,13,Belo Horizonte,MG
+2,Hospital São Paulo,6,Transplante Renal,12583.38,7,2023-01-25 08:00:00,96,8,Brasília,RJ
+5,Hospital das Clínicas,6,Transplante Renal,17779.04,3,2023-01-25 09:00:00,76,16,Belo Horizonte,MG
+3,Hospital do Coração,6,Radioterapia,6757.59,6,2023-01-25 10:00:00,82,6,Brasília,MG
+1,Hospital São Paulo,6,Transplante Renal,2420.39,1,2023-01-25 11:00:00,5,16,Curitiba,MG
+4,Hospital São Paulo,6,Cirurgia Cardíaca,3799.14,5,2023-01-25 12:00:00,20,15,Brasília,PR
+5,Hospital São Paulo,2,Ressonância Magnética,1465.52,9,2023-01-25 13:00:00,47,7,Belo Horizonte,DF
+1,Hospital das Clínicas,4,Transplante Renal,13135.63,7,2023-01-25 14:00:00,79,9,São Paulo,MG
+2,Hospital do Coração,5,Hemodiálise,3183.17,6,2023-01-25 15:00:00,84,16,Belo Horizonte,DF
+1,Hospital São Paulo,2,Cirurgia Cardíaca,18809.07,6,2023-01-25 16:00:00,74,16,Rio de Janeiro,SP
+1,Hospital do Coração,6,Transplante Renal,18161.04,7,2023-01-25 17:00:00,28,8,Belo Horizonte,DF
+1,Hospital São Paulo,2,Ressonância Magnética,9329.37,4,2023-01-25 18:00:00,72,1,Curitiba,MG
+5,Hospital São Paulo,1,Radioterapia,15466.04,9,2023-01-25 19:00:00,42,20,Brasília,MG
+1,Hospital das Clínicas,3,Quimioterapia,17220.71,6,2023-01-25 20:00:00,80,12,São Paulo,RJ
+4,Hospital das Clínicas,4,Cirurgia Cardíaca,14379.84,3,2023-01-25 21:00:00,88,4,Curitiba,RJ
+3,Hospital do Coração,2,Hemodiálise,4002.33,7,2023-01-25 22:00:00,4,17,São Paulo,MG
+4,Hospital das Clínicas,1,Quimioterapia,7897.31,5,2023-01-25 23:00:00,9,3,Brasília,SP
+3,Hospital do Coração,5,Radioterapia,8086.48,4,2023-01-26 00:00:00,36,6,Brasília,RJ
+2,Hospital do Coração,1,Radioterapia,19232.13,1,2023-01-26 01:00:00,14,7,Brasília,SP
+3,Hospital Albert Einstein,1,Quimioterapia,15373.43,6,2023-01-26 02:00:00,56,20,Brasília,MG
+4,Hospital São Paulo,3,Cirurgia Cardíaca,1538.11,1,2023-01-26 03:00:00,70,5,Rio de Janeiro,SP
+3,Hospital das Clínicas,4,Cirurgia Cardíaca,9194.93,8,2023-01-26 04:00:00,95,5,Brasília,SP
+3,Hospital Sírio-Libanês,5,Cirurgia Cardíaca,9278.65,9,2023-01-26 05:00:00,26,8,Curitiba,RJ
+3,Hospital Albert Einstein,1,Hemodiálise,2497.4,10,2023-01-26 06:00:00,88,20,Curitiba,PR
+5,Hospital Sírio-Libanês,1,Transplante Renal,9436.76,5,2023-01-26 07:00:00,38,19,Belo Horizonte,SP
+2,Hospital das Clínicas,6,Cirurgia Cardíaca,2957.7,4,2023-01-26 08:00:00,64,16,Belo Horizonte,PR
+3,Hospital das Clínicas,6,Ressonância Magnética,12608.75,9,2023-01-26 09:00:00,95,19,São Paulo,RJ
+1,Hospital das Clínicas,3,Hemodiálise,11984.9,9,2023-01-26 10:00:00,11,20,São Paulo,SP
+4,Hospital Sírio-Libanês,5,Hemodiálise,6973.68,10,2023-01-26 11:00:00,5,14,Belo Horizonte,MG
+4,Hospital Albert Einstein,3,Cirurgia Cardíaca,11987.42,6,2023-01-26 12:00:00,15,4,São Paulo,MG
+1,Hospital Albert Einstein,3,Quimioterapia,7717.48,2,2023-01-26 13:00:00,67,7,São Paulo,SP
+5,Hospital do Coração,2,Radioterapia,12493.53,5,2023-01-26 14:00:00,15,3,Brasília,SP
+3,Hospital do Coração,4,Transplante Renal,12929.59,3,2023-01-26 15:00:00,20,2,Belo Horizonte,SP
+2,Hospital São Paulo,5,Ressonância Magnética,5518.65,9,2023-01-26 16:00:00,76,18,Rio de Janeiro,DF
+3,Hospital Albert Einstein,1,Ressonância Magnética,4060.93,7,2023-01-26 17:00:00,26,19,São Paulo,MG
+1,Hospital Sírio-Libanês,2,Cirurgia Cardíaca,16260.4,10,2023-01-26 18:00:00,41,4,Rio de Janeiro,RJ
+2,Hospital Sírio-Libanês,4,Transplante Renal,5533.19,6,2023-01-26 19:00:00,22,19,São Paulo,RJ
+3,Hospital Sírio-Libanês,3,Transplante Renal,16208.39,6,2023-01-26 20:00:00,36,14,Curitiba,PR
+4,Hospital do Coração,5,Transplante Renal,16656.78,3,2023-01-26 21:00:00,11,3,Curitiba,PR
+1,Hospital Sírio-Libanês,2,Hemodiálise,18403.0,9,2023-01-26 22:00:00,49,16,Curitiba,PR
+2,Hospital das Clínicas,5,Radioterapia,19305.24,6,2023-01-26 23:00:00,45,4,Rio de Janeiro,RJ
+5,Hospital São Paulo,4,Radioterapia,7674.71,3,2023-01-27 00:00:00,3,20,São Paulo,DF
+4,Hospital das Clínicas,6,Quimioterapia,13573.57,3,2023-01-27 01:00:00,94,19,Rio de Janeiro,PR
+4,Hospital Sírio-Libanês,1,Quimioterapia,17105.44,10,2023-01-27 02:00:00,56,19,Curitiba,RJ
+2,Hospital das Clínicas,1,Ressonância Magnética,15765.54,10,2023-01-27 03:00:00,84,14,São Paulo,SP
+3,Hospital Sírio-Libanês,4,Cirurgia Cardíaca,16922.8,8,2023-01-27 04:00:00,59,14,Brasília,DF
+1,Hospital Sírio-Libanês,5,Radioterapia,6621.47,3,2023-01-27 05:00:00,90,6,Curitiba,MG
+1,Hospital São Paulo,5,Cirurgia Cardíaca,13781.89,5,2023-01-27 06:00:00,50,14,Rio de Janeiro,SP
+5,Hospital Albert Einstein,3,Cirurgia Cardíaca,6063.88,7,2023-01-27 07:00:00,99,11,São Paulo,DF
+3,Hospital Albert Einstein,6,Radioterapia,2128.95,8,2023-01-27 08:00:00,85,12,Belo Horizonte,RJ
+3,Hospital das Clínicas,1,Ressonância Magnética,2694.46,2,2023-01-27 09:00:00,89,15,Belo Horizonte,PR
+5,Hospital das Clínicas,5,Transplante Renal,13263.94,9,2023-01-27 10:00:00,79,14,São Paulo,PR
+5,Hospital das Clínicas,2,Cirurgia Cardíaca,5730.95,3,2023-01-27 11:00:00,95,4,Brasília,DF
+4,Hospital do Coração,3,Hemodiálise,19774.01,1,2023-01-27 12:00:00,70,15,Brasília,PR
+5,Hospital Sírio-Libanês,3,Quimioterapia,18965.37,8,2023-01-27 13:00:00,3,18,Belo Horizonte,PR
+1,Hospital Albert Einstein,5,Hemodiálise,1851.23,2,2023-01-27 14:00:00,83,16,Brasília,MG
+3,Hospital São Paulo,2,Radioterapia,8361.83,4,2023-01-27 15:00:00,90,11,São Paulo,RJ
+3,Hospital São Paulo,1,Transplante Renal,13993.33,1,2023-01-27 16:00:00,36,18,São Paulo,PR
+5,Hospital do Coração,2,Hemodiálise,14670.51,8,2023-01-27 17:00:00,28,5,Curitiba,PR
+4,Hospital das Clínicas,2,Cirurgia Cardíaca,5465.94,4,2023-01-27 18:00:00,71,15,Belo Horizonte,RJ
+3,Hospital São Paulo,6,Cirurgia Cardíaca,17995.43,7,2023-01-27 19:00:00,23,4,Brasília,RJ
+2,Hospital das Clínicas,6,Transplante Renal,1408.63,8,2023-01-27 20:00:00,18,1,Belo Horizonte,SP
+1,Hospital São Paulo,5,Radioterapia,10169.26,5,2023-01-27 21:00:00,2,14,Rio de Janeiro,RJ
+3,Hospital das Clínicas,6,Ressonância Magnética,1655.86,8,2023-01-27 22:00:00,67,2,Brasília,PR
+2,Hospital do Coração,5,Ressonância Magnética,14664.12,9,2023-01-27 23:00:00,45,16,Belo Horizonte,SP
+4,Hospital Albert Einstein,5,Cirurgia Cardíaca,7156.62,9,2023-01-28 00:00:00,16,17,Rio de Janeiro,MG
+2,Hospital do Coração,6,Ressonância Magnética,7977.24,5,2023-01-28 01:00:00,13,5,Curitiba,SP
+2,Hospital do Coração,5,Transplante Renal,14473.06,1,2023-01-28 02:00:00,42,19,Belo Horizonte,PR
+4,Hospital Sírio-Libanês,1,Cirurgia Cardíaca,18342.9,6,2023-01-28 03:00:00,89,19,Curitiba,DF
+2,Hospital Sírio-Libanês,4,Ressonância Magnética,16026.23,7,2023-01-28 04:00:00,13,11,Belo Horizonte,PR
+4,Hospital Albert Einstein,2,Radioterapia,8103.01,5,2023-01-28 05:00:00,19,12,Belo Horizonte,MG
+5,Hospital São Paulo,4,Transplante Renal,10916.43,6,2023-01-28 06:00:00,8,5,Rio de Janeiro,DF
+2,Hospital do Coração,1,Quimioterapia,12462.94,7,2023-01-28 07:00:00,5,18,Curitiba,PR
+5,Hospital das Clínicas,2,Quimioterapia,16297.19,3,2023-01-28 08:00:00,77,7,Belo Horizonte,DF
+5,Hospital das Clínicas,5,Ressonância Magnética,18087.72,10,2023-01-28 09:00:00,67,6,Curitiba,PR
+5,Hospital São Paulo,3,Transplante Renal,7755.33,1,2023-01-28 10:00:00,8,11,Curitiba,SP
+2,Hospital São Paulo,5,Quimioterapia,14101.36,5,2023-01-28 11:00:00,74,2,Curitiba,MG
+2,Hospital Sírio-Libanês,6,Quimioterapia,17001.02,5,2023-01-28 12:00:00,2,2,São Paulo,PR
+5,Hospital Sírio-Libanês,6,Hemodiálise,16390.78,8,2023-01-28 13:00:00,97,15,Brasília,RJ
+3,Hospital do Coração,2,Hemodiálise,18692.22,1,2023-01-28 14:00:00,85,19,Rio de Janeiro,MG
+4,Hospital das Clínicas,3,Cirurgia Cardíaca,15167.98,10,2023-01-28 15:00:00,43,18,Brasília,MG
+2,Hospital do Coração,1,Transplante Renal,851.27,4,2023-01-28 16:00:00,80,13,São Paulo,SP
+1,Hospital das Clínicas,3,Hemodiálise,12656.9,4,2023-01-28 17:00:00,69,4,Rio de Janeiro,SP
+3,Hospital das Clínicas,5,Cirurgia Cardíaca,15931.11,5,2023-01-28 18:00:00,24,1,Brasília,MG
+4,Hospital das Clínicas,5,Radioterapia,5466.04,8,2023-01-28 19:00:00,27,13,São Paulo,RJ
+3,Hospital Sírio-Libanês,5,Radioterapia,4246.95,9,2023-01-28 20:00:00,37,9,Rio de Janeiro,MG
+1,Hospital São Paulo,2,Cirurgia Cardíaca,3060.47,1,2023-01-28 21:00:00,39,10,Belo Horizonte,SP
+3,Hospital São Paulo,2,Hemodiálise,18796.16,6,2023-01-28 22:00:00,38,19,Rio de Janeiro,DF
+1,Hospital do Coração,6,Radioterapia,11522.92,9,2023-01-28 23:00:00,3,16,Belo Horizonte,MG
+4,Hospital do Coração,3,Ressonância Magnética,8649.02,5,2023-01-29 00:00:00,39,1,Curitiba,RJ
+1,Hospital Albert Einstein,5,Hemodiálise,3319.66,2,2023-01-29 01:00:00,71,4,Belo Horizonte,DF
+1,Hospital Sírio-Libanês,4,Transplante Renal,4185.38,6,2023-01-29 02:00:00,79,5,São Paulo,RJ
+4,Hospital São Paulo,6,Cirurgia Cardíaca,11410.77,7,2023-01-29 03:00:00,86,10,Rio de Janeiro,MG
+5,Hospital São Paulo,5,Quimioterapia,12756.77,10,2023-01-29 04:00:00,60,7,Rio de Janeiro,SP
+2,Hospital Albert Einstein,2,Cirurgia Cardíaca,4805.55,5,2023-01-29 05:00:00,100,18,Brasília,RJ
+3,Hospital das Clínicas,2,Quimioterapia,7480.05,3,2023-01-29 06:00:00,79,14,Brasília,DF
+4,Hospital das Clínicas,1,Quimioterapia,17649.38,10,2023-01-29 07:00:00,60,9,Brasília,SP
+4,Hospital do Coração,1,Cirurgia Cardíaca,2771.64,2,2023-01-29 08:00:00,64,1,Curitiba,DF
+1,Hospital São Paulo,5,Transplante Renal,7082.56,5,2023-01-29 09:00:00,61,2,Rio de Janeiro,RJ
+4,Hospital do Coração,4,Ressonância Magnética,7005.76,7,2023-01-29 10:00:00,96,11,São Paulo,RJ
+5,Hospital do Coração,4,Cirurgia Cardíaca,6773.74,8,2023-01-29 11:00:00,20,4,Brasília,PR
+2,Hospital São Paulo,3,Ressonância Magnética,16912.62,8,2023-01-29 12:00:00,28,11,São Paulo,PR
+4,Hospital Albert Einstein,4,Quimioterapia,19500.21,2,2023-01-29 13:00:00,84,4,São Paulo,MG
+3,Hospital do Coração,1,Cirurgia Cardíaca,12950.24,9,2023-01-29 14:00:00,92,4,Rio de Janeiro,RJ
+2,Hospital Albert Einstein,5,Ressonância Magnética,5030.82,10,2023-01-29 15:00:00,22,1,Belo Horizonte,MG
+5,Hospital Albert Einstein,3,Hemodiálise,7398.76,3,2023-01-29 16:00:00,44,16,Rio de Janeiro,DF
+1,Hospital São Paulo,6,Quimioterapia,3573.66,5,2023-01-29 17:00:00,2,14,Rio de Janeiro,PR
+3,Hospital do Coração,5,Transplante Renal,14900.51,6,2023-01-29 18:00:00,55,17,Curitiba,MG
+2,Hospital São Paulo,1,Radioterapia,14061.36,6,2023-01-29 19:00:00,97,12,Curitiba,MG
+5,Hospital do Coração,6,Ressonância Magnética,11426.02,6,2023-01-29 20:00:00,91,4,Curitiba,DF
+1,Hospital São Paulo,2,Quimioterapia,8125.77,10,2023-01-29 21:00:00,19,8,Belo Horizonte,MG
+2,Hospital Sírio-Libanês,4,Radioterapia,5618.67,4,2023-01-29 22:00:00,76,10,Rio de Janeiro,SP
+1,Hospital do Coração,4,Cirurgia Cardíaca,695.57,3,2023-01-29 23:00:00,45,19,São Paulo,SP
+3,Hospital das Clínicas,3,Cirurgia Cardíaca,6664.72,7,2023-01-30 00:00:00,13,10,Belo Horizonte,MG
+2,Hospital do Coração,2,Transplante Renal,19436.29,1,2023-01-30 01:00:00,43,16,Brasília,PR
+2,Hospital do Coração,4,Radioterapia,10779.73,2,2023-01-30 02:00:00,70,9,Brasília,MG
+1,Hospital Albert Einstein,3,Radioterapia,12800.34,1,2023-01-30 03:00:00,88,12,Brasília,RJ
+1,Hospital do Coração,6,Quimioterapia,14770.15,8,2023-01-30 04:00:00,95,17,Brasília,SP
+5,Hospital Sírio-Libanês,3,Cirurgia Cardíaca,10498.67,1,2023-01-30 05:00:00,9,9,Brasília,DF
+4,Hospital Albert Einstein,5,Radioterapia,17686.18,3,2023-01-30 06:00:00,54,12,São Paulo,RJ
+2,Hospital São Paulo,3,Hemodiálise,4257.16,2,2023-01-30 07:00:00,32,2,São Paulo,DF
+1,Hospital Sírio-Libanês,2,Quimioterapia,19445.35,6,2023-01-30 08:00:00,17,9,Curitiba,SP
+4,Hospital das Clínicas,4,Radioterapia,6356.23,1,2023-01-30 09:00:00,97,11,Rio de Janeiro,DF
+2,Hospital do Coração,6,Hemodiálise,4069.63,8,2023-01-30 10:00:00,62,18,Belo Horizonte,RJ
+5,Hospital do Coração,2,Transplante Renal,11226.72,3,2023-01-30 11:00:00,89,19,Rio de Janeiro,DF
+5,Hospital Albert Einstein,6,Transplante Renal,19956.75,1,2023-01-30 12:00:00,43,7,Curitiba,SP
+2,Hospital das Clínicas,3,Transplante Renal,10391.8,1,2023-01-30 13:00:00,72,18,Belo Horizonte,MG
+5,Hospital do Coração,3,Transplante Renal,19791.23,3,2023-01-30 14:00:00,13,10,Belo Horizonte,PR
+1,Hospital Albert Einstein,2,Hemodiálise,5020.45,10,2023-01-30 15:00:00,75,6,Brasília,SP
+4,Hospital Albert Einstein,5,Hemodiálise,8942.89,8,2023-01-30 16:00:00,47,4,Brasília,PR
+5,Hospital Sírio-Libanês,4,Transplante Renal,10209.94,10,2023-01-30 17:00:00,55,9,Belo Horizonte,SP
+3,Hospital São Paulo,5,Ressonância Magnética,11624.33,4,2023-01-30 18:00:00,17,2,São Paulo,RJ
+5,Hospital do Coração,1,Cirurgia Cardíaca,5336.49,5,2023-01-30 19:00:00,15,20,São Paulo,RJ
+3,Hospital do Coração,1,Cirurgia Cardíaca,18866.92,6,2023-01-30 20:00:00,27,4,Brasília,MG
+5,Hospital das Clínicas,3,Quimioterapia,13973.99,8,2023-01-30 21:00:00,86,4,Brasília,RJ
+4,Hospital das Clínicas,4,Radioterapia,10642.28,3,2023-01-30 22:00:00,83,14,Brasília,SP
+2,Hospital do Coração,4,Cirurgia Cardíaca,11967.45,3,2023-01-30 23:00:00,87,15,Rio de Janeiro,MG
+4,Hospital do Coração,5,Cirurgia Cardíaca,1576.84,3,2023-01-31 00:00:00,35,12,Brasília,RJ
+3,Hospital Albert Einstein,2,Cirurgia Cardíaca,7475.95,9,2023-01-31 01:00:00,62,6,Rio de Janeiro,RJ
+2,Hospital São Paulo,6,Quimioterapia,4122.02,7,2023-01-31 02:00:00,64,2,São Paulo,RJ
+5,Hospital das Clínicas,6,Transplante Renal,14702.56,8,2023-01-31 03:00:00,35,1,Belo Horizonte,RJ
+3,Hospital das Clínicas,5,Quimioterapia,14021.2,4,2023-01-31 04:00:00,82,7,Belo Horizonte,SP
+5,Hospital do Coração,6,Hemodiálise,6476.48,6,2023-01-31 05:00:00,20,4,Belo Horizonte,MG
+1,Hospital do Coração,1,Ressonância Magnética,10281.77,7,2023-01-31 06:00:00,50,5,Curitiba,DF
+2,Hospital Sírio-Libanês,1,Quimioterapia,5165.46,10,2023-01-31 07:00:00,5,17,Curitiba,MG
+3,Hospital das Clínicas,1,Transplante Renal,17657.55,9,2023-01-31 08:00:00,42,12,Curitiba,SP
+1,Hospital das Clínicas,6,Quimioterapia,749.22,8,2023-01-31 09:00:00,80,17,Curitiba,PR
+5,Hospital do Coração,3,Hemodiálise,5979.3,10,2023-01-31 10:00:00,95,1,São Paulo,PR
+5,Hospital das Clínicas,4,Ressonância Magnética,2633.69,7,2023-01-31 11:00:00,52,20,Belo Horizonte,PR
+3,Hospital Sírio-Libanês,1,Radioterapia,10602.38,9,2023-01-31 12:00:00,41,3,Curitiba,RJ
+1,Hospital do Coração,5,Hemodiálise,12075.95,2,2023-01-31 13:00:00,39,19,São Paulo,DF
+3,Hospital das Clínicas,4,Transplante Renal,16242.02,5,2023-01-31 14:00:00,59,16,Belo Horizonte,SP
+2,Hospital das Clínicas,2,Cirurgia Cardíaca,16640.35,5,2023-01-31 15:00:00,60,12,Brasília,MG
+3,Hospital Sírio-Libanês,4,Ressonância Magnética,18660.8,10,2023-01-31 16:00:00,21,4,Brasília,DF
+4,Hospital São Paulo,6,Transplante Renal,14870.06,2,2023-01-31 17:00:00,70,15,Brasília,SP
+5,Hospital Albert Einstein,6,Ressonância Magnética,2295.85,4,2023-01-31 18:00:00,63,18,Belo Horizonte,DF
+1,Hospital São Paulo,5,Ressonância Magnética,14324.29,6,2023-01-31 19:00:00,71,13,Curitiba,DF
+4,Hospital São Paulo,1,Transplante Renal,7651.24,3,2023-01-31 20:00:00,79,13,Belo Horizonte,RJ
+4,Hospital Albert Einstein,3,Transplante Renal,17752.23,10,2023-01-31 21:00:00,23,16,Rio de Janeiro,RJ
+1,Hospital das Clínicas,1,Ressonância Magnética,14765.61,6,2023-01-31 22:00:00,12,15,Belo Horizonte,DF
+2,Hospital Sírio-Libanês,2,Quimioterapia,19198.74,2,2023-01-31 23:00:00,98,19,Rio de Janeiro,RJ
+3,Hospital Albert Einstein,5,Quimioterapia,19368.33,7,2023-02-01 00:00:00,68,13,Brasília,DF
+5,Hospital São Paulo,6,Radioterapia,9256.79,6,2023-02-01 01:00:00,37,1,Brasília,MG
+4,Hospital Sírio-Libanês,5,Transplante Renal,2351.5,8,2023-02-01 02:00:00,71,13,Brasília,DF
+3,Hospital das Clínicas,1,Quimioterapia,8618.33,5,2023-02-01 03:00:00,31,16,Rio de Janeiro,DF
+1,Hospital Sírio-Libanês,3,Transplante Renal,2235.69,4,2023-02-01 04:00:00,65,7,Rio de Janeiro,MG
+4,Hospital São Paulo,5,Quimioterapia,12645.01,10,2023-02-01 05:00:00,94,15,Brasília,DF
+4,Hospital das Clínicas,3,Radioterapia,1363.64,10,2023-02-01 06:00:00,93,19,Rio de Janeiro,DF
+4,Hospital Albert Einstein,2,Cirurgia Cardíaca,1655.9,10,2023-02-01 07:00:00,30,9,Belo Horizonte,MG
+4,Hospital Albert Einstein,2,Cirurgia Cardíaca,15203.12,6,2023-02-01 08:00:00,5,18,Curitiba,DF
+1,Hospital Albert Einstein,5,Cirurgia Cardíaca,2804.36,4,2023-02-01 09:00:00,76,15,Brasília,PR
+1,Hospital Albert Einstein,1,Cirurgia Cardíaca,17850.22,8,2023-02-01 10:00:00,20,4,Belo Horizonte,RJ
+5,Hospital das Clínicas,4,Ressonância Magnética,15439.94,9,2023-02-01 11:00:00,14,17,Belo Horizonte,SP
+3,Hospital Albert Einstein,1,Hemodiálise,16147.84,1,2023-02-01 12:00:00,56,18,Curitiba,SP
+4,Hospital do Coração,4,Transplante Renal,9794.93,10,2023-02-01 13:00:00,2,9,Curitiba,SP
+4,Hospital São Paulo,1,Quimioterapia,12238.83,8,2023-02-01 14:00:00,52,8,São Paulo,MG
+4,Hospital Sírio-Libanês,3,Ressonância Magnética,9414.08,9,2023-02-01 15:00:00,32,15,Belo Horizonte,MG
+5,Hospital São Paulo,1,Quimioterapia,2286.9,3,2023-02-01 16:00:00,5,1,Brasília,DF
+3,Hospital do Coração,4,Radioterapia,18291.98,5,2023-02-01 17:00:00,63,13,Rio de Janeiro,PR
+2,Hospital Albert Einstein,6,Transplante Renal,6728.44,2,2023-02-01 18:00:00,17,18,São Paulo,PR
+3,Hospital do Coração,1,Quimioterapia,5276.49,10,2023-02-01 19:00:00,40,16,São Paulo,PR
+5,Hospital das Clínicas,6,Transplante Renal,3099.95,2,2023-02-01 20:00:00,99,16,Curitiba,PR
+1,Hospital do Coração,2,Quimioterapia,18265.44,6,2023-02-01 21:00:00,23,3,Brasília,DF
+1,Hospital Albert Einstein,1,Radioterapia,1841.98,6,2023-02-01 22:00:00,6,19,Brasília,RJ
+5,Hospital São Paulo,4,Cirurgia Cardíaca,12161.6,3,2023-02-01 23:00:00,48,12,São Paulo,RJ
+5,Hospital das Clínicas,3,Quimioterapia,2088.44,2,2023-02-02 00:00:00,7,10,Curitiba,SP
+5,Hospital São Paulo,6,Radioterapia,14569.78,7,2023-02-02 01:00:00,7,16,Rio de Janeiro,SP
+3,Hospital São Paulo,5,Hemodiálise,1747.59,5,2023-02-02 02:00:00,44,3,Curitiba,RJ
+2,Hospital Albert Einstein,2,Transplante Renal,12279.27,6,2023-02-02 03:00:00,95,1,Brasília,SP
+4,Hospital São Paulo,4,Quimioterapia,12358.87,10,2023-02-02 04:00:00,59,5,Rio de Janeiro,DF
+5,Hospital São Paulo,1,Hemodiálise,4215.56,3,2023-02-02 05:00:00,83,18,Belo Horizonte,RJ
+3,Hospital Sírio-Libanês,6,Cirurgia Cardíaca,17592.81,10,2023-02-02 06:00:00,28,13,Belo Horizonte,RJ
+1,Hospital das Clínicas,4,Ressonância Magnética,5960.6,5,2023-02-02 07:00:00,41,3,Belo Horizonte,MG
+2,Hospital das Clínicas,4,Cirurgia Cardíaca,7710.94,1,2023-02-02 08:00:00,33,16,Curitiba,RJ
+3,Hospital São Paulo,4,Hemodiálise,12331.34,3,2023-02-02 09:00:00,92,13,Curitiba,MG
+5,Hospital Albert Einstein,3,Quimioterapia,12115.7,6,2023-02-02 10:00:00,3,17,Brasília,DF
+5,Hospital do Coração,6,Radioterapia,13503.17,2,2023-02-02 11:00:00,63,12,Brasília,PR
+2,Hospital Sírio-Libanês,4,Ressonância Magnética,2459.29,10,2023-02-02 12:00:00,78,3,Curitiba,RJ
+4,Hospital Albert Einstein,4,Quimioterapia,16011.55,5,2023-02-02 13:00:00,53,18,Curitiba,SP
+3,Hospital São Paulo,6,Ressonância Magnética,6527.87,4,2023-02-02 14:00:00,71,1,Brasília,RJ
+3,Hospital das Clínicas,5,Hemodiálise,637.97,4,2023-02-02 15:00:00,34,19,Rio de Janeiro,RJ
+1,Hospital Sírio-Libanês,4,Quimioterapia,5974.87,8,2023-02-02 16:00:00,97,6,Curitiba,PR
+3,Hospital do Coração,6,Ressonância Magnética,6799.49,8,2023-02-02 17:00:00,38,9,Curitiba,RJ
+2,Hospital das Clínicas,4,Hemodiálise,9451.7,10,2023-02-02 18:00:00,79,1,Curitiba,RJ
+1,Hospital São Paulo,4,Transplante Renal,16773.59,10,2023-02-02 19:00:00,98,13,Belo Horizonte,MG
+5,Hospital do Coração,2,Hemodiálise,11909.31,2,2023-02-02 20:00:00,29,13,Belo Horizonte,RJ
+3,Hospital do Coração,2,Ressonância Magnética,16108.22,10,2023-02-02 21:00:00,26,6,Belo Horizonte,PR
+3,Hospital São Paulo,6,Cirurgia Cardíaca,13728.92,2,2023-02-02 22:00:00,3,9,Belo Horizonte,PR
+1,Hospital das Clínicas,6,Radioterapia,9498.63,4,2023-02-02 23:00:00,1,18,São Paulo,RJ
+1,Hospital das Clínicas,5,Cirurgia Cardíaca,4573.53,1,2023-02-03 00:00:00,69,9,Curitiba,DF
+3,Hospital Sírio-Libanês,3,Transplante Renal,17735.62,8,2023-02-03 01:00:00,87,3,São Paulo,PR
+2,Hospital Sírio-Libanês,3,Hemodiálise,16225.95,7,2023-02-03 02:00:00,50,5,Belo Horizonte,PR
+3,Hospital Sírio-Libanês,2,Cirurgia Cardíaca,15329.55,8,2023-02-03 03:00:00,28,6,Belo Horizonte,MG
+3,Hospital São Paulo,2,Ressonância Magnética,16888.71,7,2023-02-03 04:00:00,99,14,São Paulo,MG
+1,Hospital do Coração,3,Cirurgia Cardíaca,17966.21,4,2023-02-03 05:00:00,88,9,Rio de Janeiro,SP
+1,Hospital Albert Einstein,6,Ressonância Magnética,19265.46,5,2023-02-03 06:00:00,95,14,São Paulo,RJ
+5,Hospital do Coração,3,Transplante Renal,9630.59,10,2023-02-03 07:00:00,22,10,São Paulo,SP
+3,Hospital Sírio-Libanês,1,Radioterapia,8055.7,4,2023-02-03 08:00:00,49,7,Rio de Janeiro,PR
+4,Hospital das Clínicas,6,Cirurgia Cardíaca,8103.6,3,2023-02-03 09:00:00,84,6,Rio de Janeiro,RJ
+3,Hospital das Clínicas,1,Quimioterapia,10479.0,7,2023-02-03 10:00:00,77,11,Belo Horizonte,SP
+2,Hospital do Coração,3,Ressonância Magnética,4493.84,1,2023-02-03 11:00:00,60,7,Brasília,SP
+5,Hospital do Coração,4,Radioterapia,1014.24,4,2023-02-03 12:00:00,42,2,Curitiba,SP
+4,Hospital São Paulo,1,Ressonância Magnética,2454.42,5,2023-02-03 13:00:00,75,5,Curitiba,MG
+1,Hospital das Clínicas,1,Ressonância Magnética,4161.83,2,2023-02-03 14:00:00,69,16,Curitiba,RJ
+5,Hospital Sírio-Libanês,6,Ressonância Magnética,19684.68,2,2023-02-03 15:00:00,44,4,Belo Horizonte,MG
+2,Hospital Albert Einstein,4,Cirurgia Cardíaca,7782.71,5,2023-02-03 16:00:00,86,3,Rio de Janeiro,SP
+3,Hospital das Clínicas,3,Quimioterapia,13244.21,10,2023-02-03 17:00:00,86,20,Belo Horizonte,MG
+3,Hospital do Coração,4,Quimioterapia,14570.32,8,2023-02-03 18:00:00,17,19,São Paulo,DF
+3,Hospital Albert Einstein,3,Hemodiálise,7994.48,8,2023-02-03 19:00:00,81,4,Curitiba,DF
+5,Hospital São Paulo,4,Quimioterapia,6061.29,7,2023-02-03 20:00:00,18,1,Curitiba,RJ
+5,Hospital do Coração,6,Ressonância Magnética,18029.42,1,2023-02-03 21:00:00,37,10,Brasília,MG
+2,Hospital Sírio-Libanês,4,Radioterapia,16903.62,8,2023-02-03 22:00:00,56,3,Belo Horizonte,PR
+5,Hospital Sírio-Libanês,2,Cirurgia Cardíaca,7687.05,6,2023-02-03 23:00:00,54,3,São Paulo,SP
+2,Hospital do Coração,5,Ressonância Magnética,17974.12,10,2023-02-04 00:00:00,87,5,Rio de Janeiro,PR
+1,Hospital Sírio-Libanês,6,Ressonância Magnética,4880.12,8,2023-02-04 01:00:00,45,12,Brasília,DF
+4,Hospital das Clínicas,1,Cirurgia Cardíaca,583.71,3,2023-02-04 02:00:00,45,7,Curitiba,MG
+1,Hospital das Clínicas,6,Transplante Renal,8665.72,3,2023-02-04 03:00:00,12,3,Belo Horizonte,PR
+4,Hospital Sírio-Libanês,5,Radioterapia,13880.63,3,2023-02-04 04:00:00,73,19,São Paulo,SP
+2,Hospital Sírio-Libanês,1,Ressonância Magnética,5446.62,7,2023-02-04 05:00:00,92,11,Rio de Janeiro,SP
+4,Hospital São Paulo,2,Radioterapia,5297.27,2,2023-02-04 06:00:00,41,19,Curitiba,RJ
+3,Hospital Sírio-Libanês,1,Cirurgia Cardíaca,6499.65,7,2023-02-04 07:00:00,43,6,Rio de Janeiro,RJ
+1,Hospital Sírio-Libanês,4,Cirurgia Cardíaca,10087.55,10,2023-02-04 08:00:00,54,15,Belo Horizonte,MG
+3,Hospital São Paulo,3,Quimioterapia,2164.54,1,2023-02-04 09:00:00,8,17,Brasília,RJ
+1,Hospital São Paulo,6,Transplante Renal,14095.26,1,2023-02-04 10:00:00,2,1,Curitiba,SP
+2,Hospital São Paulo,3,Hemodiálise,17157.27,7,2023-02-04 11:00:00,53,3,Belo Horizonte,DF
+1,Hospital São Paulo,2,Ressonância Magnética,13354.03,6,2023-02-04 12:00:00,65,17,Belo Horizonte,MG
+5,Hospital Sírio-Libanês,3,Hemodiálise,11275.48,5,2023-02-04 13:00:00,95,2,Rio de Janeiro,SP
+5,Hospital Sírio-Libanês,6,Cirurgia Cardíaca,7934.64,2,2023-02-04 14:00:00,97,14,Brasília,RJ
+4,Hospital Albert Einstein,3,Hemodiálise,19992.17,3,2023-02-04 15:00:00,68,9,Brasília,MG
+1,Hospital Albert Einstein,4,Radioterapia,16552.43,8,2023-02-04 16:00:00,66,19,Belo Horizonte,SP
+4,Hospital Albert Einstein,4,Transplante Renal,983.92,9,2023-02-04 17:00:00,93,12,São Paulo,DF
+2,Hospital Albert Einstein,6,Radioterapia,17126.73,6,2023-02-04 18:00:00,42,13,Curitiba,SP
+5,Hospital das Clínicas,4,Ressonância Magnética,11646.66,10,2023-02-04 19:00:00,16,4,Brasília,DF
+3,Hospital Sírio-Libanês,4,Quimioterapia,7408.89,9,2023-02-04 20:00:00,47,6,Brasília,DF
+1,Hospital do Coração,6,Quimioterapia,15715.27,7,2023-02-04 21:00:00,90,6,Curitiba,SP
+4,Hospital Albert Einstein,4,Transplante Renal,18573.31,5,2023-02-04 22:00:00,17,16,Rio de Janeiro,PR
+1,Hospital Albert Einstein,1,Cirurgia Cardíaca,8067.3,8,2023-02-04 23:00:00,7,11,Curitiba,DF
+4,Hospital do Coração,5,Transplante Renal,4834.27,9,2023-02-05 00:00:00,96,20,Belo Horizonte,MG
+1,Hospital São Paulo,4,Radioterapia,3368.04,3,2023-02-05 01:00:00,82,9,São Paulo,SP
+5,Hospital Albert Einstein,5,Ressonância Magnética,10111.11,1,2023-02-05 02:00:00,12,15,São Paulo,RJ
+4,Hospital São Paulo,2,Hemodiálise,15639.79,6,2023-02-05 03:00:00,12,13,Curitiba,PR
+2,Hospital São Paulo,1,Transplante Renal,11899.21,8,2023-02-05 04:00:00,24,13,Brasília,MG
+3,Hospital São Paulo,2,Ressonância Magnética,5543.86,7,2023-02-05 05:00:00,32,16,Rio de Janeiro,MG
+1,Hospital São Paulo,5,Cirurgia Cardíaca,3848.06,3,2023-02-05 06:00:00,28,2,Belo Horizonte,PR
+1,Hospital São Paulo,4,Quimioterapia,17171.86,10,2023-02-05 07:00:00,68,7,São Paulo,DF
+1,Hospital das Clínicas,5,Radioterapia,9976.98,9,2023-02-05 08:00:00,10,3,Brasília,MG
+1,Hospital do Coração,1,Ressonância Magnética,11820.86,6,2023-02-05 09:00:00,98,11,Curitiba,DF
+4,Hospital Albert Einstein,1,Ressonância Magnética,740.38,1,2023-02-05 10:00:00,93,8,São Paulo,SP
+2,Hospital Albert Einstein,1,Ressonância Magnética,5081.19,9,2023-02-05 11:00:00,77,15,Rio de Janeiro,PR
+2,Hospital Albert Einstein,4,Quimioterapia,15656.53,2,2023-02-05 12:00:00,31,19,Curitiba,DF
+4,Hospital Sírio-Libanês,2,Ressonância Magnética,8507.14,2,2023-02-05 13:00:00,28,6,Brasília,MG
+1,Hospital do Coração,1,Transplante Renal,14901.76,5,2023-02-05 14:00:00,9,3,Rio de Janeiro,PR
+5,Hospital São Paulo,2,Cirurgia Cardíaca,12009.18,10,2023-02-05 15:00:00,29,18,Brasília,RJ
+2,Hospital Sírio-Libanês,2,Ressonância Magnética,10541.4,10,2023-02-05 16:00:00,95,5,Rio de Janeiro,SP
+3,Hospital Albert Einstein,5,Hemodiálise,19293.39,6,2023-02-05 17:00:00,81,4,Curitiba,DF
+2,Hospital do Coração,2,Hemodiálise,717.79,7,2023-02-05 18:00:00,74,5,Rio de Janeiro,PR
+1,Hospital Sírio-Libanês,4,Hemodiálise,9778.63,1,2023-02-05 19:00:00,40,5,Brasília,PR
+5,Hospital Albert Einstein,3,Radioterapia,18037.14,9,2023-02-05 20:00:00,2,3,Brasília,SP
+2,Hospital do Coração,5,Ressonância Magnética,12337.52,1,2023-02-05 21:00:00,99,3,Rio de Janeiro,DF
+1,Hospital das Clínicas,4,Ressonância Magnética,14975.67,9,2023-02-05 22:00:00,32,18,Curitiba,DF
+5,Hospital do Coração,6,Quimioterapia,6032.1,10,2023-02-05 23:00:00,32,1,São Paulo,SP
+1,Hospital São Paulo,5,Hemodiálise,19070.34,10,2023-02-06 00:00:00,30,16,Curitiba,RJ
+3,Hospital São Paulo,6,Transplante Renal,4657.89,6,2023-02-06 01:00:00,79,9,Rio de Janeiro,RJ
+4,Hospital das Clínicas,2,Ressonância Magnética,17801.73,4,2023-02-06 02:00:00,90,13,Curitiba,DF
+3,Hospital São Paulo,6,Ressonância Magnética,7513.07,7,2023-02-06 03:00:00,73,5,Curitiba,DF
+2,Hospital Albert Einstein,5,Hemodiálise,8714.89,4,2023-02-06 04:00:00,67,16,Rio de Janeiro,MG
+1,Hospital das Clínicas,2,Transplante Renal,9212.62,7,2023-02-06 05:00:00,85,2,Brasília,MG
+2,Hospital das Clínicas,6,Transplante Renal,8639.0,8,2023-02-06 06:00:00,1,6,Belo Horizonte,RJ
+2,Hospital São Paulo,2,Quimioterapia,12829.1,4,2023-02-06 07:00:00,39,9,Brasília,SP
+3,Hospital Albert Einstein,3,Hemodiálise,10194.37,4,2023-02-06 08:00:00,13,9,São Paulo,SP
+2,Hospital São Paulo,2,Quimioterapia,10879.83,10,2023-02-06 09:00:00,78,3,São Paulo,MG
+3,Hospital Albert Einstein,5,Cirurgia Cardíaca,16679.9,9,2023-02-06 10:00:00,12,6,Curitiba,DF
+5,Hospital do Coração,4,Transplante Renal,4053.87,2,2023-02-06 11:00:00,64,11,Rio de Janeiro,SP
+5,Hospital Albert Einstein,5,Cirurgia Cardíaca,10103.02,8,2023-02-06 12:00:00,94,7,Belo Horizonte,PR
+2,Hospital Albert Einstein,3,Quimioterapia,5262.44,3,2023-02-06 13:00:00,57,8,Curitiba,PR
+3,Hospital do Coração,4,Radioterapia,1705.66,4,2023-02-06 14:00:00,95,6,Belo Horizonte,RJ
+3,Hospital do Coração,6,Hemodiálise,15058.52,7,2023-02-06 15:00:00,13,16,Rio de Janeiro,RJ
+3,Hospital do Coração,2,Quimioterapia,10378.63,9,2023-02-06 16:00:00,87,15,Belo Horizonte,SP
+2,Hospital São Paulo,3,Transplante Renal,12889.53,7,2023-02-06 17:00:00,14,16,Belo Horizonte,RJ
+2,Hospital Sírio-Libanês,1,Radioterapia,15676.66,7,2023-02-06 18:00:00,9,11,São Paulo,RJ
+5,Hospital Sírio-Libanês,6,Ressonância Magnética,9339.4,3,2023-02-06 19:00:00,62,15,Belo Horizonte,DF
+1,Hospital Sírio-Libanês,2,Hemodiálise,2396.83,1,2023-02-06 20:00:00,70,11,Rio de Janeiro,PR
+5,Hospital do Coração,5,Cirurgia Cardíaca,10446.61,8,2023-02-06 21:00:00,30,8,Rio de Janeiro,SP
+1,Hospital das Clínicas,3,Transplante Renal,2072.75,8,2023-02-06 22:00:00,10,8,Curitiba,DF
+3,Hospital Sírio-Libanês,6,Quimioterapia,5260.48,6,2023-02-06 23:00:00,23,19,São Paulo,RJ
+2,Hospital Albert Einstein,4,Quimioterapia,12795.08,1,2023-02-07 00:00:00,63,5,Curitiba,MG
+5,Hospital Sírio-Libanês,6,Transplante Renal,4963.87,6,2023-02-07 01:00:00,88,8,Belo Horizonte,PR
+1,Hospital do Coração,5,Ressonância Magnética,13224.97,2,2023-02-07 02:00:00,6,12,Belo Horizonte,SP
+2,Hospital do Coração,4,Transplante Renal,1372.18,2,2023-02-07 03:00:00,11,2,Rio de Janeiro,SP
+4,Hospital Sírio-Libanês,5,Hemodiálise,10529.56,5,2023-02-07 04:00:00,88,7,Brasília,RJ
+5,Hospital Sírio-Libanês,4,Ressonância Magnética,7100.07,9,2023-02-07 05:00:00,2,13,Belo Horizonte,MG
+4,Hospital São Paulo,2,Hemodiálise,11211.68,6,2023-02-07 06:00:00,94,18,Brasília,SP
+3,Hospital Sírio-Libanês,6,Hemodiálise,8883.82,7,2023-02-07 07:00:00,7,7,Brasília,SP
+4,Hospital São Paulo,6,Quimioterapia,8767.28,2,2023-02-07 08:00:00,64,17,Brasília,RJ
+1,Hospital São Paulo,3,Cirurgia Cardíaca,7368.56,1,2023-02-07 09:00:00,88,10,Belo Horizonte,PR
+4,Hospital do Coração,6,Radioterapia,5962.49,6,2023-02-07 10:00:00,31,12,Rio de Janeiro,DF
+5,Hospital Albert Einstein,1,Transplante Renal,3210.07,4,2023-02-07 11:00:00,86,8,Rio de Janeiro,RJ
+4,Hospital Albert Einstein,4,Hemodiálise,16180.7,1,2023-02-07 12:00:00,66,8,Curitiba,DF
+1,Hospital das Clínicas,2,Ressonância Magnética,18802.9,7,2023-02-07 13:00:00,34,9,Rio de Janeiro,SP
+5,Hospital Albert Einstein,5,Cirurgia Cardíaca,16451.4,8,2023-02-07 14:00:00,49,7,Rio de Janeiro,SP
+2,Hospital São Paulo,4,Radioterapia,2810.6,1,2023-02-07 15:00:00,72,10,Belo Horizonte,RJ
+4,Hospital Sírio-Libanês,5,Hemodiálise,5571.04,2,2023-02-07 16:00:00,99,9,São Paulo,DF
+1,Hospital Sírio-Libanês,6,Hemodiálise,14179.23,6,2023-02-07 17:00:00,33,8,Rio de Janeiro,DF
+2,Hospital das Clínicas,4,Transplante Renal,3623.47,10,2023-02-07 18:00:00,13,2,Rio de Janeiro,PR
+3,Hospital Albert Einstein,3,Ressonância Magnética,4641.61,5,2023-02-07 19:00:00,97,7,Brasília,SP
+1,Hospital Albert Einstein,1,Radioterapia,9881.87,3,2023-02-07 20:00:00,45,12,São Paulo,DF
+4,Hospital São Paulo,3,Quimioterapia,14342.68,3,2023-02-07 21:00:00,66,18,Curitiba,MG
+1,Hospital Sírio-Libanês,2,Transplante Renal,11839.5,2,2023-02-07 22:00:00,20,7,São Paulo,RJ
+5,Hospital Albert Einstein,4,Transplante Renal,13695.08,5,2023-02-07 23:00:00,72,6,Rio de Janeiro,SP
+2,Hospital do Coração,2,Quimioterapia,18386.64,10,2023-02-08 00:00:00,24,4,Rio de Janeiro,PR
+2,Hospital do Coração,2,Cirurgia Cardíaca,2747.16,2,2023-02-08 01:00:00,66,7,Belo Horizonte,MG
+5,Hospital Sírio-Libanês,4,Cirurgia Cardíaca,1379.18,6,2023-02-08 02:00:00,82,12,Rio de Janeiro,SP
+3,Hospital Albert Einstein,5,Transplante Renal,855.18,10,2023-02-08 03:00:00,33,2,Rio de Janeiro,MG
+3,Hospital Sírio-Libanês,1,Hemodiálise,14305.2,4,2023-02-08 04:00:00,90,9,Curitiba,SP
+2,Hospital Sírio-Libanês,3,Cirurgia Cardíaca,15237.99,8,2023-02-08 05:00:00,52,13,São Paulo,RJ
+5,Hospital do Coração,2,Ressonância Magnética,1235.8,7,2023-02-08 06:00:00,66,13,Belo Horizonte,PR
+3,Hospital do Coração,2,Ressonância Magnética,15596.66,7,2023-02-08 07:00:00,93,16,Brasília,PR
+1,Hospital do Coração,1,Hemodiálise,505.97,5,2023-02-08 08:00:00,97,8,Belo Horizonte,RJ
+3,Hospital Albert Einstein,6,Radioterapia,1323.44,8,2023-02-08 09:00:00,18,2,São Paulo,SP
+1,Hospital Sírio-Libanês,1,Transplante Renal,9223.68,5,2023-02-08 10:00:00,27,20,Curitiba,PR
+2,Hospital das Clínicas,2,Hemodiálise,8518.13,6,2023-02-08 11:00:00,99,13,Rio de Janeiro,MG
+5,Hospital São Paulo,6,Cirurgia Cardíaca,11298.36,2,2023-02-08 12:00:00,77,3,Brasília,DF
+5,Hospital das Clínicas,4,Cirurgia Cardíaca,18678.04,6,2023-02-08 13:00:00,16,4,Belo Horizonte,PR
+3,Hospital do Coração,6,Cirurgia Cardíaca,9602.26,6,2023-02-08 14:00:00,86,11,Brasília,RJ
+5,Hospital Sírio-Libanês,3,Cirurgia Cardíaca,17347.15,8,2023-02-08 15:00:00,34,4,Rio de Janeiro,SP
+1,Hospital São Paulo,2,Hemodiálise,4167.3,3,2023-02-08 16:00:00,57,5,Brasília,RJ
+1,Hospital Sírio-Libanês,1,Quimioterapia,13754.96,5,2023-02-08 17:00:00,68,8,São Paulo,DF
+4,Hospital das Clínicas,4,Ressonância Magnética,7651.24,8,2023-02-08 18:00:00,5,20,São Paulo,PR
+5,Hospital do Coração,1,Transplante Renal,15018.37,9,2023-02-08 19:00:00,11,12,São Paulo,PR
+3,Hospital do Coração,6,Ressonância Magnética,6317.62,10,2023-02-08 20:00:00,18,11,Brasília,RJ
+4,Hospital Albert Einstein,1,Ressonância Magnética,18477.85,2,2023-02-08 21:00:00,26,18,São Paulo,MG
+2,Hospital São Paulo,1,Radioterapia,10741.56,9,2023-02-08 22:00:00,82,19,Curitiba,PR
+5,Hospital Albert Einstein,2,Cirurgia Cardíaca,7789.47,9,2023-02-08 23:00:00,47,13,Curitiba,RJ
+2,Hospital Sírio-Libanês,3,Transplante Renal,965.71,3,2023-02-09 00:00:00,38,9,São Paulo,SP
+4,Hospital Albert Einstein,1,Quimioterapia,10361.41,2,2023-02-09 01:00:00,26,10,Rio de Janeiro,RJ
+3,Hospital das Clínicas,2,Quimioterapia,17876.28,2,2023-02-09 02:00:00,82,12,Brasília,RJ
+1,Hospital Albert Einstein,2,Cirurgia Cardíaca,18778.33,4,2023-02-09 03:00:00,25,6,Brasília,DF
+5,Hospital Albert Einstein,6,Cirurgia Cardíaca,14858.42,5,2023-02-09 04:00:00,36,9,Rio de Janeiro,MG
+1,Hospital São Paulo,6,Transplante Renal,6533.27,4,2023-02-09 05:00:00,12,14,São Paulo,PR
+4,Hospital São Paulo,3,Radioterapia,1111.45,10,2023-02-09 06:00:00,10,6,São Paulo,SP
+5,Hospital Albert Einstein,6,Quimioterapia,13046.05,4,2023-02-09 07:00:00,29,8,Curitiba,RJ
+4,Hospital São Paulo,5,Ressonância Magnética,10128.55,2,2023-02-09 08:00:00,43,13,Rio de Janeiro,RJ
+5,Hospital Albert Einstein,4,Quimioterapia,8022.77,4,2023-02-09 09:00:00,27,3,Brasília,SP
+1,Hospital do Coração,5,Transplante Renal,12198.81,2,2023-02-09 10:00:00,100,20,Brasília,SP
+2,Hospital São Paulo,3,Ressonância Magnética,10695.7,3,2023-02-09 11:00:00,63,3,São Paulo,MG
+1,Hospital das Clínicas,2,Hemodiálise,12154.62,5,2023-02-09 12:00:00,76,18,Rio de Janeiro,MG
+5,Hospital Sírio-Libanês,4,Quimioterapia,13653.52,9,2023-02-09 13:00:00,40,9,Curitiba,PR
+1,Hospital Sírio-Libanês,2,Transplante Renal,14523.05,1,2023-02-09 14:00:00,9,10,Brasília,DF
+5,Hospital Albert Einstein,6,Cirurgia Cardíaca,4847.35,3,2023-02-09 15:00:00,34,9,Rio de Janeiro,MG
+5,Hospital Albert Einstein,6,Radioterapia,5905.42,1,2023-02-09 16:00:00,67,16,Curitiba,DF
+3,Hospital São Paulo,6,Radioterapia,15377.98,8,2023-02-09 17:00:00,85,15,São Paulo,SP
+2,Hospital São Paulo,5,Radioterapia,5388.86,9,2023-02-09 18:00:00,17,10,Brasília,RJ
+4,Hospital São Paulo,3,Cirurgia Cardíaca,5158.8,1,2023-02-09 19:00:00,84,6,Rio de Janeiro,RJ
+5,Hospital do Coração,5,Transplante Renal,16049.93,4,2023-02-09 20:00:00,40,7,Belo Horizonte,SP
+3,Hospital das Clínicas,3,Hemodiálise,18285.66,10,2023-02-09 21:00:00,9,18,Belo Horizonte,SP
+5,Hospital do Coração,3,Cirurgia Cardíaca,11798.63,1,2023-02-09 22:00:00,37,8,Brasília,PR
+1,Hospital São Paulo,2,Radioterapia,15131.39,2,2023-02-09 23:00:00,93,8,Rio de Janeiro,SP
+1,Hospital Sírio-Libanês,4,Cirurgia Cardíaca,3608.46,5,2023-02-10 00:00:00,31,6,Curitiba,DF
+1,Hospital Sírio-Libanês,4,Ressonância Magnética,8072.99,5,2023-02-10 01:00:00,41,4,Rio de Janeiro,MG
+4,Hospital São Paulo,3,Ressonância Magnética,14103.47,9,2023-02-10 02:00:00,21,6,Rio de Janeiro,PR
+2,Hospital das Clínicas,2,Cirurgia Cardíaca,9362.74,1,2023-02-10 03:00:00,13,7,São Paulo,MG
+5,Hospital do Coração,2,Quimioterapia,15540.5,6,2023-02-10 04:00:00,42,4,Rio de Janeiro,DF
+4,Hospital das Clínicas,2,Transplante Renal,16278.38,5,2023-02-10 05:00:00,79,7,Curitiba,MG
+5,Hospital Sírio-Libanês,1,Hemodiálise,11313.42,6,2023-02-10 06:00:00,60,8,Brasília,RJ
+5,Hospital do Coração,3,Hemodiálise,8534.08,6,2023-02-10 07:00:00,85,18,Belo Horizonte,SP
+2,Hospital das Clínicas,2,Hemodiálise,2755.84,6,2023-02-10 08:00:00,5,10,Rio de Janeiro,RJ
+1,Hospital São Paulo,4,Ressonância Magnética,9992.82,9,2023-02-10 09:00:00,65,4,São Paulo,DF
+5,Hospital São Paulo,4,Hemodiálise,10659.27,6,2023-02-10 10:00:00,57,7,Rio de Janeiro,RJ
+3,Hospital do Coração,5,Cirurgia Cardíaca,10566.42,10,2023-02-10 11:00:00,47,5,Curitiba,SP
+4,Hospital do Coração,1,Transplante Renal,668.51,9,2023-02-10 12:00:00,6,8,Rio de Janeiro,MG
+3,Hospital Sírio-Libanês,2,Radioterapia,676.84,5,2023-02-10 13:00:00,13,18,São Paulo,DF
+3,Hospital Sírio-Libanês,4,Hemodiálise,17756.07,7,2023-02-10 14:00:00,59,11,Curitiba,DF
+1,Hospital Albert Einstein,4,Cirurgia Cardíaca,4049.29,3,2023-02-10 15:00:00,4,4,Belo Horizonte,SP
+5,Hospital Sírio-Libanês,2,Hemodiálise,7886.36,8,2023-02-10 16:00:00,16,4,Curitiba,RJ
+3,Hospital São Paulo,2,Radioterapia,11093.22,1,2023-02-10 17:00:00,80,4,Rio de Janeiro,DF
+5,Hospital das Clínicas,5,Hemodiálise,9125.82,1,2023-02-10 18:00:00,71,1,Brasília,RJ
+3,Hospital das Clínicas,1,Radioterapia,19702.69,2,2023-02-10 19:00:00,65,6,Rio de Janeiro,MG
+4,Hospital São Paulo,3,Cirurgia Cardíaca,11787.37,7,2023-02-10 20:00:00,26,1,Belo Horizonte,DF
+3,Hospital das Clínicas,1,Hemodiálise,14457.7,5,2023-02-10 21:00:00,20,10,Brasília,PR
+2,Hospital do Coração,5,Radioterapia,13864.57,7,2023-02-10 22:00:00,86,11,Belo Horizonte,RJ
+3,Hospital das Clínicas,5,Quimioterapia,13298.06,1,2023-02-10 23:00:00,1,10,Brasília,RJ
+4,Hospital das Clínicas,2,Quimioterapia,17597.85,3,2023-02-11 00:00:00,50,8,Curitiba,PR
+2,Hospital Sírio-Libanês,6,Hemodiálise,7244.5,2,2023-02-11 01:00:00,81,7,São Paulo,PR
+5,Hospital São Paulo,2,Transplante Renal,12995.93,2,2023-02-11 02:00:00,71,5,Rio de Janeiro,RJ
+1,Hospital São Paulo,6,Transplante Renal,7345.55,1,2023-02-11 03:00:00,85,8,Curitiba,PR
+4,Hospital das Clínicas,6,Cirurgia Cardíaca,15553.17,3,2023-02-11 04:00:00,51,15,Belo Horizonte,MG
+1,Hospital São Paulo,4,Quimioterapia,19122.99,3,2023-02-11 05:00:00,80,2,Rio de Janeiro,SP
+5,Hospital São Paulo,4,Hemodiálise,9874.2,6,2023-02-11 06:00:00,54,14,São Paulo,RJ
+2,Hospital do Coração,6,Transplante Renal,7416.83,3,2023-02-11 07:00:00,33,3,São Paulo,RJ
+1,Hospital São Paulo,4,Radioterapia,14857.31,10,2023-02-11 08:00:00,1,7,Belo Horizonte,DF
+1,Hospital Albert Einstein,5,Ressonância Magnética,10710.18,5,2023-02-11 09:00:00,46,5,Rio de Janeiro,DF
+2,Hospital São Paulo,6,Cirurgia Cardíaca,18790.46,1,2023-02-11 10:00:00,27,9,Brasília,RJ
+4,Hospital São Paulo,2,Radioterapia,3308.1,10,2023-02-11 11:00:00,22,13,Belo Horizonte,MG
+1,Hospital das Clínicas,4,Cirurgia Cardíaca,6799.59,8,2023-02-11 12:00:00,46,19,Rio de Janeiro,SP
+5,Hospital Sírio-Libanês,1,Ressonância Magnética,9174.61,1,2023-02-11 13:00:00,94,18,Brasília,DF
+3,Hospital São Paulo,2,Hemodiálise,9635.36,7,2023-02-11 14:00:00,57,10,Brasília,PR
+1,Hospital Sírio-Libanês,2,Radioterapia,19443.05,1,2023-02-11 15:00:00,100,18,Brasília,PR
