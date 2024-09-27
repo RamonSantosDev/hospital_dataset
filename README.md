@@ -7,7 +7,7 @@ Para este projeto, foram utilizadas ferramentas como <b>Excel, SQL, e Power BI</
 
 ### Conjuntos de dados
 
-Os dados utilizados estão distribuídos em várias tabelas, com informações sobre vendas, envios, categorias de produtos, países e outras métricas relevantes.
+O dataset utilizado contém informações detalhadas de procedimentos médicos realizados em diversos hospitais.
 
 ### Visualização do Dashboard:
 No dashboard encontram-se as principais métricas e indicadores que permitem uma compreensão da performance da gestão do hospital.
