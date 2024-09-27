@@ -20,7 +20,7 @@ No dashboard encontram-se as principais métricas e indicadores que permitem uma
 
 ## Métricas e Análises
 
-#### 1. custos por hospital (Gráfico de Barras Clusterizados):
+#### 1. Custos por hospital (Gráfico de Barras Clusterizados):
 Visualização dos custos totais por hospital, comparando o desempenho financeiro de cada um.
 
 #### 2. Comparativo de procedimentos (Gráfico de Barras Empilhadas):
